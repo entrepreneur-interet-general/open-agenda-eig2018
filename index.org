@@ -1,0 +1,39 @@
+Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open][en ligne]].
+
+* Fab14+ (tout juillet 2018)
+  SCHEDULED: <2018-07-01 dim.>
+  :PROPERTIES:
+  :ID:       af28610e-eeec-418d-8672-14a950e295e7
+  :END:
+
+http://www.fab14.org/fr/fab14-plus/
+
+* Perspectives de l’IA
+  SCHEDULED: <2018-02-27 mar. 18:00-20:00>
+  :PROPERTIES:
+  :ID:       a4aef00b-46ae-4b60-9180-c5c7a2d5c9e8
+  :END:
+
+Perspectives de l’IA dans le secteur public autour du rapport de
+Jérôme Pesenti
+
+Amphithéâtre Leroy-Beaulieu-Sorel - 27 rue Saint-Guillaume, 75007
+Paris.
+
+https://www.sciencespo.fr/evenements/?event=perspectives-de-lia-dans-le-secteur-public-autour-du-rapport-de-jerome-pesenti
+
+* Esthétique des donnees - Gaîté Lyrique
+  SCHEDULED: <2018-03-01 jeu. 19:00>
+  :PROPERTIES:
+  :ID:       6446ff51-ce32-4523-973f-1b2133e123d3
+  :END:
+
+https://gaite-lyrique.net/esthetique-des-donnees
+
+* COMMENT Configuration
+
+#+SEQ_TODO:  STRT(s) NEXT(n) TODO(t) WAIT(w) | DONE(d) CANCELED(c)
+#+LANGUAGE:  fr
+#+DRAWERS:   HIDE LOGBOOK
+#+ARCHIVE:   ~/.eig2/archives/eig-open-agenda-archives.org::
+#+CATEGORY:  EIG

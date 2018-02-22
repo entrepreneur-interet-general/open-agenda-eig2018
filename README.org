@@ -1,0 +1,4 @@
+#+title: Open Agenda EIG 2018
+
+Vous pouvez vous abonner à cet agenda public en ligne ou le suivre
+[[https://entrepreneur-interet-general.github.io/open-agenda-eig2018/][comme un blog]].
