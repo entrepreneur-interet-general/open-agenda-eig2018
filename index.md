@@ -1,6 +1,11 @@
 Vous pouvez vous abonner à cet agenda public [en ligne](https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open).
 
 
+# MakeryMedialab #3 Que partage-t-on dans les Fablabs?
+
+Lieu : Gaîté Lyrique
+
+
 # Fab14+ (tout juillet 2018)
 
 <http://www.fab14.org/fr/fab14-plus/>
