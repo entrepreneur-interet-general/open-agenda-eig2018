@@ -1,6 +1,13 @@
 Vous pouvez vous abonner à cet agenda public [en ligne](https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open).
 
 
+# OceanHackathon (Brest)
+
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-10-05 ven.&gt;</span></span>-<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-10-07 dim.&gt;</span></span>
+
+<https://www.facebook.com/OceanHackathon/>
+
+
 # MakeryMedialab #3 Que partage-t-on dans les Fablabs?
 
 Lieu : Gaîté Lyrique
