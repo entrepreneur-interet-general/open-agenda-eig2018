@@ -7,6 +7,8 @@ Vous pouvez vous abonner à cet agenda public [en ligne](https://cloud.eig-forev
 
 <https://www.facebook.com/OceanHackathon/>
 
+<http://www.tech-brest-iroise.fr/Actualit%c3%a9s-Ocean-Hackathon-_3-du-5-au-7-octobre-2018-%c3%a0-l%e2%80%99ENSTA-Bretagne-2124-2807-0-0.html>
+
 
 # MakeryMedialab #3 Que partage-t-on dans les Fablabs?
 
