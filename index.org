@@ -1,5 +1,27 @@
 Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open][en ligne]].
 
+* La mobilité de la filière numerique au sein de l'État
+  SCHEDULED: <2018-05-03 jeu.>
+  :PROPERTIES:
+  :ID:       7008d206-c97d-4cf9-b082-cf24a4f7b961
+  :END:
+
+https://www.fonction-publique.gouv.fr/mobilitensic2018
+
+* DataScience Summer School 2018
+  :PROPERTIES:
+  :ID:       fc28861b-2b12-48a7-bbea-4358b724e922
+  :END:
+  <2018-06-25 lun.>-<2018-06-29 ven.>
+
+http://www.ds3-datascience-polytechnique.fr
+
+* Événement Villani/Mounir/Delli au LLL
+  SCHEDULED: <2018-06-28 jeu. 14:00-19:00>
+  :PROPERTIES:
+  :ID:       93955e1e-8691-4e7c-83f1-6a77eb2a49f7
+  :END:
+
 * OceanHackathon (Brest)
   :PROPERTIES:
   :ID:       44e2c068-8f17-4578-98ab-a6af83d57167
@@ -25,6 +47,21 @@ Lieu : Gaîté Lyrique
   :END:
 
 http://www.fab14.org/fr/fab14-plus/
+
+* Nuit du code citoyen
+  :PROPERTIES:
+  :ID:       78688cf1-1cca-4575-9a4e-6e3941e25025
+  :END:
+  <2018-03-09 ven.>-<2018-03-10 sam.>
+
+http://nuitcodecitoyen.org
+
+Les 9-10 mars prochain aura lieu La Nuit du Code Citoyen, un évènement
+co-organisé par Latitudes, Les Bricodeurs et La Paillasse, et à
+laquelle Étalab et EIG se joignent en tant que partenaires.  C'est un
+hackathon de 24h non stop, où l'objectif est d'accélérer des projets
+qui mêlent technologies avancées et impact social, grâce à la
+mobilisation de citoyens qui ont des compétences tech, produit, UX,...
 
 * Perspectives de l’IA
   SCHEDULED: <2018-02-27 mar. 18:00-20:00>
