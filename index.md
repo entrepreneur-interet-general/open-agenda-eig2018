@@ -1,6 +1,16 @@
 Vous pouvez vous abonner à cet agenda public [en ligne](https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open).
 
 
+# Sommet intelligence artificielle - ai-for-humanity
+
+<https://www.numerique.gouv.fr/ai-for-humanity>
+
+
+# La mobilité de la filière numerique au sein de l'État
+
+<https://www.fonction-publique.gouv.fr/mobilitensic2018>
+
+
 # DataScience Summer School 2018
 
 <span class="timestamp-wrapper"><span class="timestamp">&lt;2018-06-25 lun.&gt;</span></span>-<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-06-29 ven.&gt;</span></span>
