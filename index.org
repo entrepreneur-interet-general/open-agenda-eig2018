@@ -1,5 +1,14 @@
 Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open][en ligne]].
 
+* Hands-on chatbot
+  SCHEDULED: <2018-04-09 lun. 19:00>
+  :PROPERTIES:
+  :LOCATION: Google France 38 avenue de l'Opéra Paris
+  :ID:       fc564609-1fb7-4c60-b4dd-3db92e76781b
+  :END:
+
+- https://www.meetup.com/fr-FR/Duchess-France-Meetup/events/248991072/
+
 * Sommet intelligence artificielle - ai-for-humanity
   SCHEDULED: <2018-03-29 jeu. 08:00-14:00>
   :PROPERTIES:

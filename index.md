@@ -1,6 +1,11 @@
 Vous pouvez vous abonner à cet agenda public [en ligne](https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open).
 
 
+# Hands-on chatbot
+
+-   <https://www.meetup.com/fr-FR/Duchess-France-Meetup/events/248991072/>
+
+
 # Sommet intelligence artificielle - ai-for-humanity
 
 <https://www.numerique.gouv.fr/ai-for-humanity>
