@@ -1,6 +1,45 @@
 Vous pouvez vous abonner à cet agenda public [en ligne](https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open).
 
 
+# GAFAM, BATX : que valent nos données personnelles ? »
+
+<https://www.sciencespo.fr/evenements/?event=gafam-batx-que-valent-nos-donnees-personnelles>
+
+Dans le cadre des Rencontres de Bioéthique de Sciences Po, conférence avec :
+
+-   Dominique Cardon, directeur du médialab de Sciences Po, professeur
+    de Sociologie
+
+-   Christine Froidevaux, vice-présidente de la Société informatique de
+    France, professeur d’informatique, Université Paris-Sud-Paris-Saclay
+
+-   Claude Huriet, sénateur honoraire, membre honoris causa de
+    l’Académie nationale de médecine.
+
+Présentation du débat par Emmanuel Hirsch, professeur à l’Université
+Paris-Sud-Paris-Saclay, directeur de l’Espace éthique d’Ile-de-France.
+
+
+# Étalab talk (en français) sur « The Mother of All Demos » (Douglas Engelbart, 1968)
+
+Animé par C. Quest et B. Guerry.
+
+<http://dougengelbart.org/firsts/1968-demo-interactive.html>
+
+Nous diffuserons la vidéo et commenterons le contexte technique de
+1968, avec un focus particulier sur Stewart Brand, dont l’histoire
+est racontée dans l’ouvrage de [Fred Turner, Aux sources de l’utopie
+numérique](https://cfeditions.com/utopieNumerique/), 2012.
+
+
+# Étalab talk (en anglais) sur l’open source chez AWS
+
+Rencontre avec Z. [Bhorat](https://www.linkedin.com/in/zaheda-bhorat-143121), en charge de la stratégie open-source
+d'Amazon Web Services.
+
+L'etalab talk se fera en anglais.
+
+
 # Hands-on chatbot
 
 -   <https://www.meetup.com/fr-FR/Duchess-France-Meetup/events/248991072/>

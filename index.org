@@ -1,10 +1,61 @@
 Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open][en ligne]].
 
+* GAFAM, BATX : que valent nos données personnelles ? »
+  SCHEDULED: <2018-04-09 lun. 19:15-21:15>
+  :PROPERTIES:
+  :LOCATION: Amphithéâtre Emile Boutmy - 27 rue Saint-Guillaume 75007 Paris
+  :ID:       35f36326-9daf-4956-a145-a9adea276cf2
+  :END:
+
+https://www.sciencespo.fr/evenements/?event=gafam-batx-que-valent-nos-donnees-personnelles
+
+Dans le cadre des Rencontres de Bioéthique de Sciences Po, conférence avec :
+
+- Dominique Cardon, directeur du médialab de Sciences Po, professeur
+  de Sociologie
+
+- Christine Froidevaux, vice-présidente de la Société informatique de
+  France, professeur d’informatique, Université Paris-Sud-Paris-Saclay
+
+- Claude Huriet, sénateur honoraire, membre honoris causa de
+  l’Académie nationale de médecine.
+
+Présentation du débat par Emmanuel Hirsch, professeur à l’Université
+Paris-Sud-Paris-Saclay, directeur de l’Espace éthique d’Ile-de-France.
+
+* Étalab talk (en français) sur « The Mother of All Demos » (Douglas Engelbart, 1968)
+  SCHEDULED: <2018-05-04 ven. 12:00-14:00>
+  :PROPERTIES:
+  :ID:       f2a4e922-4445-4b2b-b0c0-9a4268f7c17d
+  :LOCATION: 20 avenue de Ségur, 75007 Paris
+  :END:
+
+Animé par C. Quest et B. Guerry.
+
+http://dougengelbart.org/firsts/1968-demo-interactive.html
+
+Nous diffuserons la vidéo et commenterons le contexte technique de
+1968, avec un focus particulier sur Stewart Brand, dont l’histoire
+est racontée dans l’ouvrage de [[https://cfeditions.com/utopieNumerique/][Fred Turner, Aux sources de l’utopie
+numérique]], 2012.
+
+* Étalab talk (en anglais) sur l’open source chez AWS
+  SCHEDULED: <2018-04-06 ven. 12:30-14:00>
+  :PROPERTIES:
+  :ID:       120bd257-d301-422a-a996-e0c19814189f
+  :END:
+
+Rencontre avec Z. [[https://www.linkedin.com/in/zaheda-bhorat-143121][Bhorat]], en charge de la stratégie open-source
+d'Amazon Web Services.
+
+L'etalab talk se fera en anglais.
+
 * Hands-on chatbot
   SCHEDULED: <2018-04-09 lun. 19:00>
   :PROPERTIES:
   :LOCATION: Google France 38 avenue de l'Opéra Paris
   :ID:       fc564609-1fb7-4c60-b4dd-3db92e76781b
+  :LOCATION: 20 avenue de Ségur, 75007 Paris
   :END:
 
 - https://www.meetup.com/fr-FR/Duchess-France-Meetup/events/248991072/
