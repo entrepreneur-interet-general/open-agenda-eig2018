@@ -84,13 +84,19 @@ https://www.fonction-publique.gouv.fr/mobilitensic2018
 
 http://www.ds3-datascience-polytechnique.fr
 
+* Garagethon Storia
+  SCHEDULED: <2018-03-30 ven. 09:30-18:00>
+  :PROPERTIES:
+  :LOCATION: Liberté Living Lab
+  :ID:       4d65f0eb-f34b-4434-aca9-e1d0c733a2f6
+  :END:
 * Événement Villani/Mounir/Delli au LLL
   SCHEDULED: <2018-06-28 jeu. 14:00-19:00>
   :PROPERTIES:
   :ID:       93955e1e-8691-4e7c-83f1-6a77eb2a49f7
   :END:
 
-* OceanHackathon (Brest)
+* OceanHackathon (ENSTA-Bretagne)
   :PROPERTIES:
   :ID:       44e2c068-8f17-4578-98ab-a6af83d57167
   :END:

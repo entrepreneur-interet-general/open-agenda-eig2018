@@ -62,10 +62,13 @@ L'etalab talk se fera en anglais.
 <http://www.ds3-datascience-polytechnique.fr>
 
 
+# Garagethon Storia
+
+
 # Événement Villani/Mounir/Delli au LLL
 
 
-# OceanHackathon (Brest)
+# OceanHackathon (ENSTA-Bretagne)
 
 <span class="timestamp-wrapper"><span class="timestamp">&lt;2018-10-05 ven.&gt;</span></span>-<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-10-07 dim.&gt;</span></span>
 
