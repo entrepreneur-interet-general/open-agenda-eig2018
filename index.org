@@ -1,5 +1,17 @@
 Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open][en ligne]].
 
+* Conférence de Yann Lecun
+  SCHEDULED: <2018-04-04 mer. 18:30>
+  :PROPERTIES:
+  :LOCATION: BnF, Paris
+  :ID:       1b035827-5670-4af6-840c-e44be845704d
+  :END:
+
+La théorie de l'apprentissage de Vapnik et les progrès récents de
+l'intelligence artificielle.
+
+http://smf.emath.fr/content/conf%C3%A9rence-bnf-yann-le-cun
+
 * GAFAM, BATX : que valent nos données personnelles ? »
   SCHEDULED: <2018-04-09 lun. 19:15-21:15>
   :PROPERTIES:

@@ -1,6 +1,14 @@
 Vous pouvez vous abonner à cet agenda public [en ligne](https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open).
 
 
+# Conférence de Yann Lecun
+
+La théorie de l'apprentissage de Vapnik et les progrès récents de
+l'intelligence artificielle.
+
+<http://smf.emath.fr/content/conf%C3%A9rence-bnf-yann-le-cun>
+
+
 # GAFAM, BATX : que valent nos données personnelles ? »
 
 <https://www.sciencespo.fr/evenements/?event=gafam-batx-que-valent-nos-donnees-personnelles>
