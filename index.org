@@ -1,5 +1,18 @@
 Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open][en ligne]].
 
+* Petit déjeuner de l’innovation autour de l’IA à travers une conférence de Frédéric Wickert
+  SCHEDULED: <2018-04-12 jeu. 09:15>
+  :PROPERTIES:
+  :LOCATION: 40 rue de la Victoire 75009 Paris
+  :ID:       998d8c59-c112-4271-b4a6-26aaf5afa317
+  :END:
+
+Kicklox organise le 12 Avril à 9h30 un petit déjeuner de l’innovation
+autour de l’IA à travers une conférence de Frédéric Wickert –
+Technical Evangelist chez Microsoft.
+
+Inscription via ce lien : https://bit.ly/2pS6Jjg
+
 * Conférence de Yann Lecun
   SCHEDULED: <2018-04-04 mer. 18:30>
   :PROPERTIES:
