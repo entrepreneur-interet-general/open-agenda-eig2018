@@ -1,12 +1,19 @@
 Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open][en ligne]].
 
-
 * Disruptions publiques - Saison 1 : La Blockchain 
-Au programme : une session découverte et inspiration avec les programmes blockchain de la Caisse des Dépôts et Consignations, puis un atelier d’idéation. En compagnie de Nadia Filali Directrice des Programmes blockchain et pilote de LabChain, et Pierre Noro chargé d’innovation blockchain à la Caisse des Dépots et Consignations. L'évènement se déroulera le 27 avril de 14h à 17h au 69 rue de Varenne.
   SCHEDULED: <2018-04-27 ven. 14:00-17:30>
-  :PROPERTIES: Inscription ici: 
-  :LOCATION: 69 Rue de Varenne, Paris 7e
+  :PROPERTIES: 
+  :LOCATION: 69 Rue de Varenne, Paris 75007
+  :ID:       55d0e640-97c0-4080-b644-db4432935f50
   :END:
+
+Au programme : une session découverte et inspiration avec les
+programmes blockchain de la Caisse des Dépôts et Consignations, puis
+un atelier d’idéation. En compagnie de Nadia Filali Directrice des
+Programmes blockchain et pilote de LabChain, et Pierre Noro chargé
+d’innovation blockchain à la Caisse des Dépots et
+Consignations. L'évènement se déroulera le 27 avril de 14h à 17h au 69
+rue de Varenne.
 
 Inscription via ce lien: https://bit.ly/2HCLART
 

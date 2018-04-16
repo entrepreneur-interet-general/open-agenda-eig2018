@@ -1,6 +1,19 @@
 Vous pouvez vous abonner à cet agenda public [en ligne](https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open).
 
 
+# Disruptions publiques - Saison 1 : La Blockchain
+
+Au programme : une session découverte et inspiration avec les
+programmes blockchain de la Caisse des Dépôts et Consignations, puis
+un atelier d’idéation. En compagnie de Nadia Filali Directrice des
+Programmes blockchain et pilote de LabChain, et Pierre Noro chargé
+d’innovation blockchain à la Caisse des Dépots et
+Consignations. L'évènement se déroulera le 27 avril de 14h à 17h au 69
+rue de Varenne.
+
+Inscription via ce lien: <https://bit.ly/2HCLART>
+
+
 # Petit déjeuner de l’innovation autour de l’IA à travers une conférence de Frédéric Wickert
 
 Kicklox organise le 12 Avril à 9h30 un petit déjeuner de l’innovation
