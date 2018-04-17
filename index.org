@@ -1,5 +1,43 @@
 Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open][en ligne]].
 
+* Fab14+ (tout juillet 2018)
+  SCHEDULED: <2018-07-01 dim.>
+  :PROPERTIES:
+  :ID:       af28610e-eeec-418d-8672-14a950e295e7
+  :END:
+
+http://www.fab14.org/fr/fab14-plus/
+
+* Événement Villani/Mounir/Delli au LLL
+  SCHEDULED: <2018-06-28 jeu. 14:00-19:00>
+  :PROPERTIES:
+  :ID:       93955e1e-8691-4e7c-83f1-6a77eb2a49f7
+  :END:
+
+* Étalab talk (en français) sur « The Mother of All Demos » (Douglas Engelbart, 1968)
+  SCHEDULED: <2018-05-04 ven. 12:00-14:00>
+  :PROPERTIES:
+  :ID:       f2a4e922-4445-4b2b-b0c0-9a4268f7c17d
+  :LOCATION: 20 avenue de Ségur, 75007 Paris
+  :END:
+
+Animé par C. Quest et B. Guerry.
+
+http://dougengelbart.org/firsts/1968-demo-interactive.html
+
+Nous diffuserons la vidéo et commenterons le contexte technique de
+1968, avec un focus particulier sur Stewart Brand, dont l’histoire
+est racontée dans l’ouvrage de [[https://cfeditions.com/utopieNumerique/][Fred Turner, Aux sources de l’utopie
+numérique]], 2012.
+
+* La mobilité de la filière numerique au sein de l'État
+  SCHEDULED: <2018-05-03 jeu.>
+  :PROPERTIES:
+  :ID:       7008d206-c97d-4cf9-b082-cf24a4f7b961
+  :END:
+
+https://www.fonction-publique.gouv.fr/mobilitensic2018
+
 * Disruptions publiques - Saison 1 : La Blockchain 
   SCHEDULED: <2018-04-27 ven. 14:00-17:30>
   :PROPERTIES: 
@@ -17,6 +55,39 @@ rue de Varenne.
 
 Inscription via ce lien: https://bit.ly/2HCLART
 
+* DataScience Summer School 2018
+  :PROPERTIES:
+  :ID:       fc28861b-2b12-48a7-bbea-4358b724e922
+  :END:
+  <2018-06-25 lun.>-<2018-06-29 ven.>
+
+http://www.ds3-datascience-polytechnique.fr
+
+* OceanHackathon (ENSTA-Bretagne)
+  :PROPERTIES:
+  :ID:       44e2c068-8f17-4578-98ab-a6af83d57167
+  :END:
+  <2018-10-05 ven.>-<2018-10-07 dim.>
+
+https://www.facebook.com/OceanHackathon/
+
+http://www.tech-brest-iroise.fr/Actualit%c3%a9s-Ocean-Hackathon-_3-du-5-au-7-octobre-2018-%c3%a0-l%e2%80%99ENSTA-Bretagne-2124-2807-0-0.html
+
+* Nuit du code citoyen
+  :PROPERTIES:
+  :ID:       78688cf1-1cca-4575-9a4e-6e3941e25025
+  :END:
+  <2018-03-09 ven.>-<2018-03-10 sam.>
+
+http://nuitcodecitoyen.org
+
+Les 9-10 mars prochain aura lieu La Nuit du Code Citoyen, un évènement
+co-organisé par Latitudes, Les Bricodeurs et La Paillasse, et à
+laquelle Étalab et EIG se joignent en tant que partenaires.  C'est un
+hackathon de 24h non stop, où l'objectif est d'accélérer des projets
+qui mêlent technologies avancées et impact social, grâce à la
+mobilisation de citoyens qui ont des compétences tech, produit, UX,...
+
 * Petit déjeuner de l’innovation autour de l’IA à travers une conférence de Frédéric Wickert
   SCHEDULED: <2018-04-12 jeu. 09:15>
   :PROPERTIES:
@@ -29,18 +100,6 @@ autour de l’IA à travers une conférence de Frédéric Wickert –
 Technical Evangelist chez Microsoft.
 
 Inscription via ce lien : https://bit.ly/2pS6Jjg
-
-* Conférence de Yann Lecun
-  SCHEDULED: <2018-04-04 mer. 18:30>
-  :PROPERTIES:
-  :LOCATION: BnF, Paris
-  :ID:       1b035827-5670-4af6-840c-e44be845704d
-  :END:
-
-La théorie de l'apprentissage de Vapnik et les progrès récents de
-l'intelligence artificielle.
-
-http://smf.emath.fr/content/conf%C3%A9rence-bnf-yann-le-cun
 
 * GAFAM, BATX : que valent nos données personnelles ? »
   SCHEDULED: <2018-04-09 lun. 19:15-21:15>
@@ -65,21 +124,15 @@ Dans le cadre des Rencontres de Bioéthique de Sciences Po, conférence avec :
 Présentation du débat par Emmanuel Hirsch, professeur à l’Université
 Paris-Sud-Paris-Saclay, directeur de l’Espace éthique d’Ile-de-France.
 
-* Étalab talk (en français) sur « The Mother of All Demos » (Douglas Engelbart, 1968)
-  SCHEDULED: <2018-05-04 ven. 12:00-14:00>
+* Hands-on chatbot
+  SCHEDULED: <2018-04-09 lun. 19:00>
   :PROPERTIES:
-  :ID:       f2a4e922-4445-4b2b-b0c0-9a4268f7c17d
+  :LOCATION: Google France 38 avenue de l'Opéra Paris
+  :ID:       fc564609-1fb7-4c60-b4dd-3db92e76781b
   :LOCATION: 20 avenue de Ségur, 75007 Paris
   :END:
 
-Animé par C. Quest et B. Guerry.
-
-http://dougengelbart.org/firsts/1968-demo-interactive.html
-
-Nous diffuserons la vidéo et commenterons le contexte technique de
-1968, avec un focus particulier sur Stewart Brand, dont l’histoire
-est racontée dans l’ouvrage de [[https://cfeditions.com/utopieNumerique/][Fred Turner, Aux sources de l’utopie
-numérique]], 2012.
+- https://www.meetup.com/fr-FR/Duchess-France-Meetup/events/248991072/
 
 * Étalab talk (en anglais) sur l’open source chez AWS
   SCHEDULED: <2018-04-06 ven. 12:30-14:00>
@@ -92,16 +145,24 @@ d'Amazon Web Services.
 
 L'etalab talk se fera en anglais.
 
-* Hands-on chatbot
-  SCHEDULED: <2018-04-09 lun. 19:00>
+* Conférence de Yann Lecun
+  SCHEDULED: <2018-04-04 mer. 18:30>
   :PROPERTIES:
-  :LOCATION: Google France 38 avenue de l'Opéra Paris
-  :ID:       fc564609-1fb7-4c60-b4dd-3db92e76781b
-  :LOCATION: 20 avenue de Ségur, 75007 Paris
+  :LOCATION: BnF, Paris
+  :ID:       1b035827-5670-4af6-840c-e44be845704d
   :END:
 
-- https://www.meetup.com/fr-FR/Duchess-France-Meetup/events/248991072/
+La théorie de l'apprentissage de Vapnik et les progrès récents de
+l'intelligence artificielle.
 
+http://smf.emath.fr/content/conf%C3%A9rence-bnf-yann-le-cun
+
+* Garagethon Storia
+  SCHEDULED: <2018-03-30 ven. 09:30-18:00>
+  :PROPERTIES:
+  :LOCATION: Liberté Living Lab
+  :ID:       4d65f0eb-f34b-4434-aca9-e1d0c733a2f6
+  :END:
 * Sommet intelligence artificielle - ai-for-humanity
   SCHEDULED: <2018-03-29 jeu. 08:00-14:00>
   :PROPERTIES:
@@ -110,74 +171,13 @@ L'etalab talk se fera en anglais.
 
 https://www.numerique.gouv.fr/ai-for-humanity
 
-* La mobilité de la filière numerique au sein de l'État
-  SCHEDULED: <2018-05-03 jeu.>
+* Esthétique des donnees - Gaîté Lyrique
+  SCHEDULED: <2018-03-01 jeu. 19:00>
   :PROPERTIES:
-  :ID:       7008d206-c97d-4cf9-b082-cf24a4f7b961
+  :ID:       6446ff51-ce32-4523-973f-1b2133e123d3
   :END:
 
-https://www.fonction-publique.gouv.fr/mobilitensic2018
-
-* DataScience Summer School 2018
-  :PROPERTIES:
-  :ID:       fc28861b-2b12-48a7-bbea-4358b724e922
-  :END:
-  <2018-06-25 lun.>-<2018-06-29 ven.>
-
-http://www.ds3-datascience-polytechnique.fr
-
-* Garagethon Storia
-  SCHEDULED: <2018-03-30 ven. 09:30-18:00>
-  :PROPERTIES:
-  :LOCATION: Liberté Living Lab
-  :ID:       4d65f0eb-f34b-4434-aca9-e1d0c733a2f6
-  :END:
-* Événement Villani/Mounir/Delli au LLL
-  SCHEDULED: <2018-06-28 jeu. 14:00-19:00>
-  :PROPERTIES:
-  :ID:       93955e1e-8691-4e7c-83f1-6a77eb2a49f7
-  :END:
-
-* OceanHackathon (ENSTA-Bretagne)
-  :PROPERTIES:
-  :ID:       44e2c068-8f17-4578-98ab-a6af83d57167
-  :END:
-  <2018-10-05 ven.>-<2018-10-07 dim.>
-
-https://www.facebook.com/OceanHackathon/
-
-http://www.tech-brest-iroise.fr/Actualit%c3%a9s-Ocean-Hackathon-_3-du-5-au-7-octobre-2018-%c3%a0-l%e2%80%99ENSTA-Bretagne-2124-2807-0-0.html
-
-* MakeryMedialab #3 Que partage-t-on dans les Fablabs?
-  SCHEDULED: <2018-02-22 jeu. 19:00>
-  :PROPERTIES:
-  :ID:       587bcd3e-7e15-48c1-b7f6-d8a13ba461b6
-  :END:
-
-Lieu : Gaîté Lyrique
-
-* Fab14+ (tout juillet 2018)
-  SCHEDULED: <2018-07-01 dim.>
-  :PROPERTIES:
-  :ID:       af28610e-eeec-418d-8672-14a950e295e7
-  :END:
-
-http://www.fab14.org/fr/fab14-plus/
-
-* Nuit du code citoyen
-  :PROPERTIES:
-  :ID:       78688cf1-1cca-4575-9a4e-6e3941e25025
-  :END:
-  <2018-03-09 ven.>-<2018-03-10 sam.>
-
-http://nuitcodecitoyen.org
-
-Les 9-10 mars prochain aura lieu La Nuit du Code Citoyen, un évènement
-co-organisé par Latitudes, Les Bricodeurs et La Paillasse, et à
-laquelle Étalab et EIG se joignent en tant que partenaires.  C'est un
-hackathon de 24h non stop, où l'objectif est d'accélérer des projets
-qui mêlent technologies avancées et impact social, grâce à la
-mobilisation de citoyens qui ont des compétences tech, produit, UX,...
+https://gaite-lyrique.net/esthetique-des-donnees
 
 * Perspectives de l’IA
   SCHEDULED: <2018-02-27 mar. 18:00-20:00>
@@ -193,13 +193,13 @@ Paris.
 
 https://www.sciencespo.fr/evenements/?event=perspectives-de-lia-dans-le-secteur-public-autour-du-rapport-de-jerome-pesenti
 
-* Esthétique des donnees - Gaîté Lyrique
-  SCHEDULED: <2018-03-01 jeu. 19:00>
+* MakeryMedialab #3 Que partage-t-on dans les Fablabs?
+  SCHEDULED: <2018-02-22 jeu. 19:00>
   :PROPERTIES:
-  :ID:       6446ff51-ce32-4523-973f-1b2133e123d3
+  :ID:       587bcd3e-7e15-48c1-b7f6-d8a13ba461b6
   :END:
 
-https://gaite-lyrique.net/esthetique-des-donnees
+Lieu : Gaîté Lyrique
 
 * COMMENT Configuration
 

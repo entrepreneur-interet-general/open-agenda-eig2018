@@ -1,6 +1,31 @@
 Vous pouvez vous abonner à cet agenda public [en ligne](https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open).
 
 
+# Fab14+ (tout juillet 2018)
+
+<http://www.fab14.org/fr/fab14-plus/>
+
+
+# Événement Villani/Mounir/Delli au LLL
+
+
+# Étalab talk (en français) sur « The Mother of All Demos » (Douglas Engelbart, 1968)
+
+Animé par C. Quest et B. Guerry.
+
+<http://dougengelbart.org/firsts/1968-demo-interactive.html>
+
+Nous diffuserons la vidéo et commenterons le contexte technique de
+1968, avec un focus particulier sur Stewart Brand, dont l’histoire
+est racontée dans l’ouvrage de [Fred Turner, Aux sources de l’utopie
+numérique](https://cfeditions.com/utopieNumerique/), 2012.
+
+
+# La mobilité de la filière numerique au sein de l'État
+
+<https://www.fonction-publique.gouv.fr/mobilitensic2018>
+
+
 # Disruptions publiques - Saison 1 : La Blockchain
 
 Au programme : une session découverte et inspiration avec les
@@ -14,6 +39,36 @@ rue de Varenne.
 Inscription via ce lien: <https://bit.ly/2HCLART>
 
 
+# DataScience Summer School 2018
+
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-06-25 lun.&gt;</span></span>-<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-06-29 ven.&gt;</span></span>
+
+<http://www.ds3-datascience-polytechnique.fr>
+
+
+# OceanHackathon (ENSTA-Bretagne)
+
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-10-05 ven.&gt;</span></span>-<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-10-07 dim.&gt;</span></span>
+
+<https://www.facebook.com/OceanHackathon/>
+
+<http://www.tech-brest-iroise.fr/Actualit%c3%a9s-Ocean-Hackathon-_3-du-5-au-7-octobre-2018-%c3%a0-l%e2%80%99ENSTA-Bretagne-2124-2807-0-0.html>
+
+
+# Nuit du code citoyen
+
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-03-09 ven.&gt;</span></span>-<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-03-10 sam.&gt;</span></span>
+
+<http://nuitcodecitoyen.org>
+
+Les 9-10 mars prochain aura lieu La Nuit du Code Citoyen, un évènement
+co-organisé par Latitudes, Les Bricodeurs et La Paillasse, et à
+laquelle Étalab et EIG se joignent en tant que partenaires.  C'est un
+hackathon de 24h non stop, où l'objectif est d'accélérer des projets
+qui mêlent technologies avancées et impact social, grâce à la
+mobilisation de citoyens qui ont des compétences tech, produit, UX,&#x2026;
+
+
 # Petit déjeuner de l’innovation autour de l’IA à travers une conférence de Frédéric Wickert
 
 Kicklox organise le 12 Avril à 9h30 un petit déjeuner de l’innovation
@@ -21,14 +76,6 @@ autour de l’IA à travers une conférence de Frédéric Wickert –
 Technical Evangelist chez Microsoft.
 
 Inscription via ce lien : <https://bit.ly/2pS6Jjg>
-
-
-# Conférence de Yann Lecun
-
-La théorie de l'apprentissage de Vapnik et les progrès récents de
-l'intelligence artificielle.
-
-<http://smf.emath.fr/content/conf%C3%A9rence-bnf-yann-le-cun>
 
 
 # GAFAM, BATX : que valent nos données personnelles ? »
@@ -50,16 +97,9 @@ Présentation du débat par Emmanuel Hirsch, professeur à l’Université
 Paris-Sud-Paris-Saclay, directeur de l’Espace éthique d’Ile-de-France.
 
 
-# Étalab talk (en français) sur « The Mother of All Demos » (Douglas Engelbart, 1968)
+# Hands-on chatbot
 
-Animé par C. Quest et B. Guerry.
-
-<http://dougengelbart.org/firsts/1968-demo-interactive.html>
-
-Nous diffuserons la vidéo et commenterons le contexte technique de
-1968, avec un focus particulier sur Stewart Brand, dont l’histoire
-est racontée dans l’ouvrage de [Fred Turner, Aux sources de l’utopie
-numérique](https://cfeditions.com/utopieNumerique/), 2012.
+-   <https://www.meetup.com/fr-FR/Duchess-France-Meetup/events/248991072/>
 
 
 # Étalab talk (en anglais) sur l’open source chez AWS
@@ -70,9 +110,15 @@ d'Amazon Web Services.
 L'etalab talk se fera en anglais.
 
 
-# Hands-on chatbot
+# Conférence de Yann Lecun
 
--   <https://www.meetup.com/fr-FR/Duchess-France-Meetup/events/248991072/>
+La théorie de l'apprentissage de Vapnik et les progrès récents de
+l'intelligence artificielle.
+
+<http://smf.emath.fr/content/conf%C3%A9rence-bnf-yann-le-cun>
+
+
+# Garagethon Storia
 
 
 # Sommet intelligence artificielle - ai-for-humanity
@@ -80,55 +126,9 @@ L'etalab talk se fera en anglais.
 <https://www.numerique.gouv.fr/ai-for-humanity>
 
 
-# La mobilité de la filière numerique au sein de l'État
+# Esthétique des donnees - Gaîté Lyrique
 
-<https://www.fonction-publique.gouv.fr/mobilitensic2018>
-
-
-# DataScience Summer School 2018
-
-<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-06-25 lun.&gt;</span></span>-<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-06-29 ven.&gt;</span></span>
-
-<http://www.ds3-datascience-polytechnique.fr>
-
-
-# Garagethon Storia
-
-
-# Événement Villani/Mounir/Delli au LLL
-
-
-# OceanHackathon (ENSTA-Bretagne)
-
-<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-10-05 ven.&gt;</span></span>-<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-10-07 dim.&gt;</span></span>
-
-<https://www.facebook.com/OceanHackathon/>
-
-<http://www.tech-brest-iroise.fr/Actualit%c3%a9s-Ocean-Hackathon-_3-du-5-au-7-octobre-2018-%c3%a0-l%e2%80%99ENSTA-Bretagne-2124-2807-0-0.html>
-
-
-# MakeryMedialab #3 Que partage-t-on dans les Fablabs?
-
-Lieu : Gaîté Lyrique
-
-
-# Fab14+ (tout juillet 2018)
-
-<http://www.fab14.org/fr/fab14-plus/>
-
-
-# Nuit du code citoyen
-
-<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-03-09 ven.&gt;</span></span>-<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-03-10 sam.&gt;</span></span>
-
-<http://nuitcodecitoyen.org>
-
-Les 9-10 mars prochain aura lieu La Nuit du Code Citoyen, un évènement
-co-organisé par Latitudes, Les Bricodeurs et La Paillasse, et à
-laquelle Étalab et EIG se joignent en tant que partenaires.  C'est un
-hackathon de 24h non stop, où l'objectif est d'accélérer des projets
-qui mêlent technologies avancées et impact social, grâce à la
-mobilisation de citoyens qui ont des compétences tech, produit, UX,&#x2026;
+<https://gaite-lyrique.net/esthetique-des-donnees>
 
 
 # Perspectives de l’IA
@@ -142,7 +142,7 @@ Paris.
 <https://www.sciencespo.fr/evenements/?event=perspectives-de-lia-dans-le-secteur-public-autour-du-rapport-de-jerome-pesenti>
 
 
-# Esthétique des donnees - Gaîté Lyrique
+# MakeryMedialab #3 Que partage-t-on dans les Fablabs?
 
-<https://gaite-lyrique.net/esthetique-des-donnees>
+Lieu : Gaîté Lyrique
 
