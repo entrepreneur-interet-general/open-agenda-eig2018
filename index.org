@@ -14,6 +14,15 @@ http://www.fab14.org/fr/fab14-plus/
   :ID:       93955e1e-8691-4e7c-83f1-6a77eb2a49f7
   :END:
 
+* Futur.e.s in Paris (Neuvième édition)
+  :PROPERTIES:
+  :ID:       96174856-e0c6-4410-a67b-a6c319b6c9c4
+  :END:
+  <2018-06-21 jeu.>-<2018-06-23 sam.>
+
+
+https://mailchi.mp/futuresfestivals/futur-en-seine-devient-futures-2236121?e=f426646cdb
+
 * Étalab talk (en français) sur « The Mother of All Demos » (Douglas Engelbart, 1968)
   SCHEDULED: <2018-05-04 ven. 12:00-14:00>
   :PROPERTIES:

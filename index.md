@@ -9,6 +9,13 @@ Vous pouvez vous abonner à cet agenda public [en ligne](https://cloud.eig-forev
 # Événement Villani/Mounir/Delli au LLL
 
 
+# Futur.e.s in Paris (Neuvième édition)
+
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-06-21 jeu.&gt;</span></span>-<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-06-23 sam.&gt;</span></span>
+
+<https://mailchi.mp/futuresfestivals/futur-en-seine-devient-futures-2236121?e=f426646cdb>
+
+
 # Étalab talk (en français) sur « The Mother of All Demos » (Douglas Engelbart, 1968)
 
 Animé par C. Quest et B. Guerry.
