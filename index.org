@@ -1,5 +1,14 @@
 Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open][en ligne]].
 
+* Démocratie(s) ? #DataGueule // Projection et world Café
+  SCHEDULED: <2018-05-24 jeu. 18:45-22:00>
+  :PROPERTIES:
+  :LOCATION: 23 Rue Dagorno, 75012 Paris
+  :END:
+
+- L’arsenal - Le Tiers-Lieu Des Associations Étudiantes
+- https://www.facebook.com/events/1757314807661581/permalink/1759906360735759
+
 * Fab14+ (tout juillet 2018)
   SCHEDULED: <2018-07-01 dim.>
   :PROPERTIES:
@@ -22,6 +31,26 @@ http://www.fab14.org/fr/fab14-plus/
 
 
 https://mailchi.mp/futuresfestivals/futur-en-seine-devient-futures-2236121?e=f426646cdb
+
+* Journée wiki·data·gouv
+  SCHEDULED: <2018-06-12 mar.>
+  :PROPERTIES:
+  :CAPTURED: [2018-05-07 lun. 09:45]
+  :ID:       e43e3918-bc06-4de9-bdb3-1db20b719e90
+  :END:
+
+* Rencontres Internationales de la Gestion Publique
+  SCHEDULED: <2018-06-06 mer. 09:00-17:30>
+  :PROPERTIES:
+  :LOCATION: 139, rue de Bercy Centre de conférences Pierre-Mendès-France - 75012 Paris
+  :ID:       3d3f67d0-0969-4704-b7b5-b9a7306856e2
+  :END:
+ 
+
+Le code a changé - Quelle gouvernance de l'action publique à l'ère
+numérique ?
+
+Lieu : 139, rue de Bercy Centre de conférences Pierre-Mendès-France - 75012 Paris
 
 * Étalab talk (en français) sur « The Mother of All Demos » (Douglas Engelbart, 1968)
   SCHEDULED: <2018-05-04 ven. 12:00-14:00>
