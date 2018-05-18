@@ -1,6 +1,18 @@
 Vous pouvez vous abonner à cet agenda public [en ligne](https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open).
 
 
+# L'IA : enjeux et défis pour la transition écologique et énergétique
+
+-   Intervenants de la mission Villani
+-   <https://eig-hq.slack.com/messages/C859D1X41/files/FARCV3ZRQ/>
+
+
+# Démocratie(s) ? #DataGueule // Projection et world Café
+
+-   L’arsenal - Le Tiers-Lieu Des Associations Étudiantes
+-   <https://www.facebook.com/events/1757314807661581/permalink/1759906360735759>
+
+
 # Fab14+ (tout juillet 2018)
 
 <http://www.fab14.org/fr/fab14-plus/>
@@ -14,6 +26,17 @@ Vous pouvez vous abonner à cet agenda public [en ligne](https://cloud.eig-forev
 <span class="timestamp-wrapper"><span class="timestamp">&lt;2018-06-21 jeu.&gt;</span></span>-<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-06-23 sam.&gt;</span></span>
 
 <https://mailchi.mp/futuresfestivals/futur-en-seine-devient-futures-2236121?e=f426646cdb>
+
+
+# Journée wiki·data·gouv
+
+
+# Rencontres Internationales de la Gestion Publique
+
+Le code a changé - Quelle gouvernance de l'action publique à l'ère
+numérique ?
+
+Lieu : 139, rue de Bercy Centre de conférences Pierre-Mendès-France - 75012 Paris
 
 
 # Étalab talk (en français) sur « The Mother of All Demos » (Douglas Engelbart, 1968)

@@ -1,9 +1,20 @@
 Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open][en ligne]].
 
+* L'IA : enjeux et défis pour la transition écologique et énergétique
+  SCHEDULED: <2018-05-25 ven. 11:00-12:30>
+  :PROPERTIES:
+  :LOCATION: Auditorium de la tour Séquoia
+  :ID:       9eeb95a4-9f25-466e-9e2e-9c2ea32528b6
+  :END:
+
+- Intervenants de la mission Villani
+- https://eig-hq.slack.com/messages/C859D1X41/files/FARCV3ZRQ/
+
 * Démocratie(s) ? #DataGueule // Projection et world Café
   SCHEDULED: <2018-05-24 jeu. 18:45-22:00>
   :PROPERTIES:
   :LOCATION: 23 Rue Dagorno, 75012 Paris
+  :ID:       c1a7183f-58d2-42ab-a425-4488d6b6c668
   :END:
 
 - L’arsenal - Le Tiers-Lieu Des Associations Étudiantes
