@@ -1,5 +1,16 @@
 Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open][en ligne]].
 
+* Open Talk DINSIC sensibilisation à l'accessibilité numérique
+  SCHEDULED: <2018-05-25 ven. 12:00-14:00>
+  :PROPERTIES:
+  :LOCATION: 20 avenue de Ségur, 75007 Paris
+  :ID:       96a8d950-40a0-46f7-b6a9-316526706d73
+  :END:
+
+Opentalk DINSIC vendredi 25 mai à Ségur en salle 5.723 de 12h à 14h.
+
+Prévoir son sandwich.
+
 * L'IA : enjeux et défis pour la transition écologique et énergétique
   SCHEDULED: <2018-05-25 ven. 11:00-12:30>
   :PROPERTIES:

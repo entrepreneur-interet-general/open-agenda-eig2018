@@ -1,6 +1,13 @@
 Vous pouvez vous abonner à cet agenda public [en ligne](https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open).
 
 
+# Open Talk DINSIC sensibilisation à l'accessibilité numérique
+
+Opentalk DINSIC vendredi 25 mai à Ségur en salle 5.723 de 12h à 14h.
+
+Prévoir son sandwich.
+
+
 # L'IA : enjeux et défis pour la transition écologique et énergétique
 
 -   Intervenants de la mission Villani
