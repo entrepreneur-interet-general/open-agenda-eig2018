@@ -1,5 +1,30 @@
 Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open][en ligne]].
 
+* Étalab talk avec Dario Taraborelli
+  SCHEDULED: <2018-06-04 lun. 12:30-14:00>
+  :PROPERTIES:
+  :LOCATION: 20 avenue de Ségur, 75007 Paris
+  :ID:       ff866ecf-0574-4c88-b53f-07ce62b3c036
+  :END:
+
+Dario Taraborelli est directeur de la recherche de la fondation
+Wikimédia.
+
+Salle 5.728 de 12h30 à 14h00
+
+*Title:* Supporting free knowledge with research and open data
+
+*Abstract:* At the Wikimedia Foundation, we use data and open source
+technology to understand and empower millions of readers and
+contributors who interact with Wikipedia and its sister projects on a
+daily basis. In this talk I’ll give an overview of the research team’s
+current priorities and how we work to make our output reusable and
+reproducible. I’ll focus in particular on an initiative called
+WikiCite, aiming to improve our understanding of where Wikipedia and
+Wikidata get their information from, by building a comprehensive,
+collaboratively edited, structured knowledge base of citable sources
+in Wikidata.
+
 * Open Talk DINSIC sensibilisation à l'accessibilité numérique
   SCHEDULED: <2018-05-25 ven. 12:00-14:00>
   :PROPERTIES:
