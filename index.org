@@ -1,5 +1,21 @@
 Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open][en ligne]].
 
+* Mapathon Missing Maps Paris @ La Paillasse
+  SCHEDULED: <2018-06-06 mer. 18:30-21:30>
+  :PROPERTIES:
+  :LOCATION: 226 Rue Saint-Denis, 75002 Paris
+  :ID:       6822f5f2-ab0e-4a9c-919c-d69db7b05552
+  :END:
+
+   Venez nous aider à cartographier sur OpenStreetMap, la carte du
+   monde collaborative et libre
+                                                                                           
+   CartONG et La Paillasse vous invitent à un mapathon pour découvrir
+   la cartographie participative et humanitaire dans OpenStreetMap :
+   pas besoin d'être un expert, c'est accessible à tout le monde !
+
+   https://www.eventbrite.ca/e/billets-mapathon-missing-maps-paris-la-paillasse-46315029500
+                                                                                           
 * Étalab talk avec Dario Taraborelli
   SCHEDULED: <2018-06-04 lun. 12:30-14:00>
   :PROPERTIES:

@@ -1,6 +1,18 @@
 Vous pouvez vous abonner à cet agenda public [en ligne](https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open).
 
 
+# Mapathon Missing Maps Paris @ La Paillasse
+
+Venez nous aider à cartographier sur OpenStreetMap, la carte du
+monde collaborative et libre
+
+CartONG et La Paillasse vous invitent à un mapathon pour découvrir
+la cartographie participative et humanitaire dans OpenStreetMap :
+pas besoin d'être un expert, c'est accessible à tout le monde !
+
+<https://www.eventbrite.ca/e/billets-mapathon-missing-maps-paris-la-paillasse-46315029500>
+
+
 # Étalab talk avec Dario Taraborelli
 
 Dario Taraborelli est directeur de la recherche de la fondation
