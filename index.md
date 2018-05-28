@@ -13,7 +13,7 @@ pas besoin d'être un expert, c'est accessible à tout le monde !
 <https://www.eventbrite.ca/e/billets-mapathon-missing-maps-paris-la-paillasse-46315029500>
 
 
-# Étalab talk avec Dario Taraborelli
+# Étalab talk avec Dario Taraborelli salle 5.728 de 12h30 à 14h00
 
 Dario Taraborelli est directeur de la recherche de la fondation
 Wikimédia.
@@ -76,7 +76,10 @@ Prévoir son sandwich.
 Le code a changé - Quelle gouvernance de l'action publique à l'ère
 numérique ?
 
-Lieu : 139, rue de Bercy Centre de conférences Pierre-Mendès-France - 75012 Paris
+Lieu : 139, rue de Bercy Centre de conférences Pierre-Mendès-France -
+75012 Paris
+
+<https://www.economie.gouv.fr/igpde-seminaires-conferences/rencontres-internationales-gestion-publique-rigp>
 
 
 # Étalab talk (en français) sur « The Mother of All Demos » (Douglas Engelbart, 1968)
