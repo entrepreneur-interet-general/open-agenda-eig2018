@@ -1,6 +1,46 @@
 Vous pouvez vous abonner à cet agenda public [en ligne](https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open).
 
 
+# OceanHackathon (ENSTA-Bretagne)
+
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-10-05 ven.&gt;</span></span>-<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-10-07 dim.&gt;</span></span>
+
+<https://www.facebook.com/OceanHackathon/>
+
+<http://www.tech-brest-iroise.fr/Actualit%c3%a9s-Ocean-Hackathon-_3-du-5-au-7-octobre-2018-%c3%a0-l%e2%80%99ENSTA-Bretagne-2124-2807-0-0.html>
+
+
+# Fab14+ (tout juillet 2018)
+
+<http://www.fab14.org/fr/fab14-plus/>
+
+
+# Événement Villani/Mounir/Delli au LLL
+
+
+# DataScience Summer School 2018
+
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-06-25 lun.&gt;</span></span>-<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-06-29 ven.&gt;</span></span>
+
+<http://www.ds3-datascience-polytechnique.fr>
+
+
+# Futur.e.s in Paris (Neuvième édition)
+
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-06-21 jeu.&gt;</span></span>-<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-06-23 sam.&gt;</span></span>
+
+<https://mailchi.mp/futuresfestivals/futur-en-seine-devient-futures-2236121?e=f426646cdb>
+
+
+# Journée wiki·data·gouv à la DINSIC
+
+Détails : <https://github.com/etalab/wiki-data-gouv>
+
+De 9h30 à 18h30
+
+À la DINSIC, salle 5.728 au 20 avenue de Ségur 75007 Paris.
+
+
 # Mapathon Missing Maps Paris @ La Paillasse
 
 Venez nous aider à cartographier sur OpenStreetMap, la carte du
@@ -11,6 +51,17 @@ la cartographie participative et humanitaire dans OpenStreetMap :
 pas besoin d'être un expert, c'est accessible à tout le monde !
 
 <https://www.eventbrite.ca/e/billets-mapathon-missing-maps-paris-la-paillasse-46315029500>
+
+
+# Rencontres Internationales de la Gestion Publique
+
+Le code a changé - Quelle gouvernance de l'action publique à l'ère
+numérique ?
+
+Lieu : 139, rue de Bercy Centre de conférences Pierre-Mendès-France -
+75012 Paris
+
+<https://www.economie.gouv.fr/igpde-seminaires-conferences/rencontres-internationales-gestion-publique-rigp>
 
 
 # Étalab talk avec Dario Taraborelli salle 5.728 de 12h30 à 14h00
@@ -53,35 +104,6 @@ Prévoir son sandwich.
 -   <https://www.facebook.com/events/1757314807661581/permalink/1759906360735759>
 
 
-# Fab14+ (tout juillet 2018)
-
-<http://www.fab14.org/fr/fab14-plus/>
-
-
-# Événement Villani/Mounir/Delli au LLL
-
-
-# Futur.e.s in Paris (Neuvième édition)
-
-<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-06-21 jeu.&gt;</span></span>-<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-06-23 sam.&gt;</span></span>
-
-<https://mailchi.mp/futuresfestivals/futur-en-seine-devient-futures-2236121?e=f426646cdb>
-
-
-# Journée wiki·data·gouv
-
-
-# Rencontres Internationales de la Gestion Publique
-
-Le code a changé - Quelle gouvernance de l'action publique à l'ère
-numérique ?
-
-Lieu : 139, rue de Bercy Centre de conférences Pierre-Mendès-France -
-75012 Paris
-
-<https://www.economie.gouv.fr/igpde-seminaires-conferences/rencontres-internationales-gestion-publique-rigp>
-
-
 # Étalab talk (en français) sur « The Mother of All Demos » (Douglas Engelbart, 1968)
 
 Animé par C. Quest et B. Guerry.
@@ -110,36 +132,6 @@ Consignations. L'évènement se déroulera le 27 avril de 14h à 17h au 69
 rue de Varenne.
 
 Inscription via ce lien: <https://bit.ly/2HCLART>
-
-
-# DataScience Summer School 2018
-
-<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-06-25 lun.&gt;</span></span>-<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-06-29 ven.&gt;</span></span>
-
-<http://www.ds3-datascience-polytechnique.fr>
-
-
-# OceanHackathon (ENSTA-Bretagne)
-
-<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-10-05 ven.&gt;</span></span>-<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-10-07 dim.&gt;</span></span>
-
-<https://www.facebook.com/OceanHackathon/>
-
-<http://www.tech-brest-iroise.fr/Actualit%c3%a9s-Ocean-Hackathon-_3-du-5-au-7-octobre-2018-%c3%a0-l%e2%80%99ENSTA-Bretagne-2124-2807-0-0.html>
-
-
-# Nuit du code citoyen
-
-<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-03-09 ven.&gt;</span></span>-<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-03-10 sam.&gt;</span></span>
-
-<http://nuitcodecitoyen.org>
-
-Les 9-10 mars prochain aura lieu La Nuit du Code Citoyen, un évènement
-co-organisé par Latitudes, Les Bricodeurs et La Paillasse, et à
-laquelle Étalab et EIG se joignent en tant que partenaires.  C'est un
-hackathon de 24h non stop, où l'objectif est d'accélérer des projets
-qui mêlent technologies avancées et impact social, grâce à la
-mobilisation de citoyens qui ont des compétences tech, produit, UX,&#x2026;
 
 
 # Petit déjeuner de l’innovation autour de l’IA à travers une conférence de Frédéric Wickert
@@ -197,6 +189,20 @@ l'intelligence artificielle.
 # Sommet intelligence artificielle - ai-for-humanity
 
 <https://www.numerique.gouv.fr/ai-for-humanity>
+
+
+# Nuit du code citoyen
+
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-03-09 ven.&gt;</span></span>-<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-03-10 sam.&gt;</span></span>
+
+<http://nuitcodecitoyen.org>
+
+Les 9-10 mars prochain aura lieu La Nuit du Code Citoyen, un évènement
+co-organisé par Latitudes, Les Bricodeurs et La Paillasse, et à
+laquelle Étalab et EIG se joignent en tant que partenaires.  C'est un
+hackathon de 24h non stop, où l'objectif est d'accélérer des projets
+qui mêlent technologies avancées et impact social, grâce à la
+mobilisation de citoyens qui ont des compétences tech, produit, UX,&#x2026;
 
 
 # Esthétique des donnees - Gaîté Lyrique
