@@ -18,6 +18,37 @@ Vous pouvez vous abonner à cet agenda public [en ligne](https://cloud.eig-forev
 # Événement Villani/Mounir/Delli au LLL
 
 
+# Session Tech EIG / Front & Back End
+
+-   Intro à GraphQL par Stanislas Chollet, Engineering Manager / Lead
+    Core API @ Dailymotion.
+    
+    GraphQL est une alternatives aux API REST utilisé notamment par
+    Github et Facebook.  Quant à Stan, c'est un passionné d'informatique
+    et fervent adepte de GraphQL, il présente régulièrement à différents
+    meetup et conférences que ce soit sur GraphQL, Kubernetes du côté
+    developeur ou l'automatisation en général: vous en trouverez plus
+    sur lui ici.
+
+-   Une présentation "front" (React.js, du one action per screen,
+    progressive web apps, server side rendering) à préciser en fonction
+    des participants par Loick Le Digabel, Lead Front Engineer @
+    Blablacar.
+    
+    Après avoir travaillé sur du front classique chez Dailymotion et
+    participé à leur premier POC avec React.js, Loick a mis en place
+    toute la nouvelle architecture front de Blablacar et vient partager
+    avec nous ses retours d'expérience.  Probablement pas de 3e speaker
+    pour laisser du temps au public et aux intervenants d'échanger
+    autour des projets de chacun ! :)
+
+Les détails logistiques :
+
+-   mercredi 27 juin 2018
+-   13h à 14h30
+-   Liberté Living Lab, 9 rue d'Alexandrie 75002 Paris
+
+
 # DataScience Summer School 2018
 
 <span class="timestamp-wrapper"><span class="timestamp">&lt;2018-06-25 lun.&gt;</span></span>-<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-06-29 ven.&gt;</span></span>
