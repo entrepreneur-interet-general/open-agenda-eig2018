@@ -62,6 +62,8 @@ Les détails logistiques :
 
 <https://mailchi.mp/futuresfestivals/futur-en-seine-devient-futures-2236121?e=f426646cdb>
 
+L'équipe EIG sera présente à Futur en Seine le vendredi.
+
 
 # Journée wiki·data·gouv à la DINSIC
 

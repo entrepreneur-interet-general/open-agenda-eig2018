@@ -73,8 +73,9 @@ http://www.ds3-datascience-polytechnique.fr
   :END:
   <2018-06-21 jeu.>-<2018-06-23 sam.>
 
-
 https://mailchi.mp/futuresfestivals/futur-en-seine-devient-futures-2236121?e=f426646cdb
+
+L'équipe EIG sera présente à Futur en Seine le vendredi.
 
 * Journée wiki·data·gouv à la DINSIC
   SCHEDULED: <2018-06-12 mar.>
