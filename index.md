@@ -1,6 +1,80 @@
 Vous pouvez vous abonner à cet agenda public [en ligne](https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open).
 
 
+# Journées plénières du GDR IA : 2-3 Octobre 2018 - Paris
+
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-10-02 mar.&gt;</span></span>-<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-10-03 mer.&gt;</span></span>
+
+Les journées plénières du GDR IA (<http://www.gdria.fr/>) auront lieu
+les 2 et 3 octobre à Paris (Université Paris Dauphine). Elles seront
+centrées sur des exposés invités sur les thématiques des groupes de
+travail du GDR:
+
+-   Contraintes et Apprentissage,
+-   Jeux,
+-   Planification Multi-Agents, Flexible, Temporelle, Epistémique et Contingente,
+-   Médiation
+-   Représentations et Algorithmes en Pratique,
+-   Explicabilité
+
+ainsi que sur les activités des groupes de travail inter-GDR:
+
+-   Raisonner sur les Données (avec le GDR Madics)
+-   Théorie Algorithmique de la Décision et des Jeux (avec le GDR RO)
+
+Des sessions de discussion seront également organisées.
+
+
+# <https://www.numerique-en-commun.fr>
+
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-09-13 jeu.&gt;</span></span>-<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-09-14 ven.&gt;</span></span>
+
+Propulsées par la Mednum et la Mission Société Numérique, accueillies
+par le Conseil Départemental de Loire-Atlantique, Nantes Métropole, et
+animées par l’association PiNG, les 5èmes rencontres nationales de la
+médiation et des cultures numériques se dérouleront les 13 et 14
+septembre 2018 à Nantes durant la Nantes Digital Week.
+
+Les acteurs de la médiation et des cultures numériques proposent
+durant deux jours des parcours thématiques, ateliers, master class,
+prototypes et conférences.
+
+L’objectif commun : partager des approches innovantes, soutenables et
+durables des cultures numériques et croiser les expériences au service
+des transitions.
+
+
+# Intelligence artificielle et cognition : apprentissages naturels et artificiels (1/2)
+
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-07-05 jeu. 08:45&gt;&#x2013;&lt;2018-07-05 jeu. 12:30&gt;</span></span>
+
+Salle Jaurès
+
+<http://www.ens.fr/agenda/intelligence-artificielle-et-cognition/2018-07-05t064500>
+
+"L’intelligence artificielle (IA) entendue au sens large est au coeur
+d’une révolution à la fois scientifique, technologique et
+sociétale. Elle consiste à déployer à de grandes échelles des
+algorithmes qui apprennent à simuler certaines fonctions cognitives,
+et ambitionne parfois de remplacer l’humain dans de nombreuses tâches
+nécessitant des fonctions cognitives supérieures (langage, perception,
+action, décision, etc).
+
+A quel point l’IA apporte-t-elle des modèles valides pour l’étude de
+la cognition et de l’apprentissage? En quoi les données des sciences
+cognitives peuvent-elles inspirer de nouveaux algorithmes? En quoi les
+algorithmes qui remplacent l’humain sont-ils fiables? Quelles
+conséquences pour l’imbrication de l’humain et de la machine dans la
+société de demain?"
+
+
+# Intelligence artificielle et cognition : apprentissages naturels et artificiels (2/2)
+
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-07-06 ven. 08:45&gt;&#x2013;&lt;2018-07-06 ven. 12:30&gt;</span></span>
+
+<http://www.ens.fr/agenda/intelligence-artificielle-et-cognition/2018-07-05t064500>
+
+
 # OceanHackathon (ENSTA-Bretagne)
 
 <span class="timestamp-wrapper"><span class="timestamp">&lt;2018-10-05 ven.&gt;</span></span>-<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-10-07 dim.&gt;</span></span>
@@ -16,6 +90,24 @@ Vous pouvez vous abonner à cet agenda public [en ligne](https://cloud.eig-forev
 
 
 # Événement Villani/Mounir/Delli au LLL
+
+<https://www.eventbrite.com/e/revolutions-de-lia-enjeux-tech-enjeux-de-societe-tickets-46715235527>
+
+The Future Society et le Liberté Living Lab co-organisent le jeudi 28
+juin après-midi (13h > 20h) des ateliers thématiques sur le thème de
+l’intelligence artificielle.
+
+Le but de cet après-midi est de permettre aux participants de mieux
+s’approprier les enjeux de la montée en puissance de l’IA. Le format
+des débats sera donc très participatif, notamment sous la forme
+d’ateliers thématiques. Cet après-midi sera ponctué par une
+table-ronde et débat en plénière en présence de Cédric Villani, député
+de LaREM de la 5ème circonscription de l'Essonne, Vice-Président de
+l'Office Parlementaire pour l'Évaluation des Choix Scientifiques et
+Technologiques (OPECST), Karima Delli, député européenne et Présidente
+de la Commission des Transports, André Loesekrug-Pietri, porte-parole
+de Joint European Disruptive Innovation (J.E.D.I) et Khalil Rouhana,
+Directeur Général Adjoint de DG Connect.
 
 
 # Session Tech EIG / Front & Back End
