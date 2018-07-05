@@ -1,5 +1,327 @@
 Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open][en ligne]].
 
+* MakeryMedialab #3 Que partage-t-on dans les Fablabs?
+  SCHEDULED: <2018-02-22 jeu. 19:00>
+  :PROPERTIES:
+  :ID:       587bcd3e-7e15-48c1-b7f6-d8a13ba461b6
+  :END:
+
+Lieu : Gaîté Lyrique
+
+* Perspectives de l’IA
+  SCHEDULED: <2018-02-27 mar. 18:00-20:00>
+  :PROPERTIES:
+  :ID:       a4aef00b-46ae-4b60-9180-c5c7a2d5c9e8
+  :END:
+
+Perspectives de l’IA dans le secteur public autour du rapport de
+Jérôme Pesenti
+
+Amphithéâtre Leroy-Beaulieu-Sorel - 27 rue Saint-Guillaume, 75007
+Paris.
+
+https://www.sciencespo.fr/evenements/?event=perspectives-de-lia-dans-le-secteur-public-autour-du-rapport-de-jerome-pesenti
+
+* Esthétique des donnees - Gaîté Lyrique
+  SCHEDULED: <2018-03-01 jeu. 19:00>
+  :PROPERTIES:
+  :ID:       6446ff51-ce32-4523-973f-1b2133e123d3
+  :END:
+
+https://gaite-lyrique.net/esthetique-des-donnees
+
+* Sommet intelligence artificielle - ai-for-humanity
+  SCHEDULED: <2018-03-29 jeu. 08:00-14:00>
+  :PROPERTIES:
+  :ID:       f5937acb-ddf2-4d23-9332-f2efaf29f75c
+  :END:
+
+https://www.numerique.gouv.fr/ai-for-humanity
+
+* Garagethon Storia
+  SCHEDULED: <2018-03-30 ven. 09:30-18:00>
+  :PROPERTIES:
+  :LOCATION: Liberté Living Lab
+  :ID:       4d65f0eb-f34b-4434-aca9-e1d0c733a2f6
+  :END:
+* Conférence de Yann Lecun
+  SCHEDULED: <2018-04-04 mer. 18:30>
+  :PROPERTIES:
+  :LOCATION: BnF, Paris
+  :ID:       1b035827-5670-4af6-840c-e44be845704d
+  :END:
+
+La théorie de l'apprentissage de Vapnik et les progrès récents de
+l'intelligence artificielle.
+
+http://smf.emath.fr/content/conf%C3%A9rence-bnf-yann-le-cun
+
+* Étalab talk (en anglais) sur l’open source chez AWS
+  SCHEDULED: <2018-04-06 ven. 12:30-14:00>
+  :PROPERTIES:
+  :ID:       120bd257-d301-422a-a996-e0c19814189f
+  :END:
+
+Rencontre avec Z. [[https://www.linkedin.com/in/zaheda-bhorat-143121][Bhorat]], en charge de la stratégie open-source
+d'Amazon Web Services.
+
+L'etalab talk se fera en anglais.
+
+* Hands-on chatbot
+  SCHEDULED: <2018-04-09 lun. 19:00>
+  :PROPERTIES:
+  :LOCATION: Google France 38 avenue de l'Opéra Paris
+  :ID:       fc564609-1fb7-4c60-b4dd-3db92e76781b
+  :LOCATION: 20 avenue de Ségur, 75007 Paris
+  :END:
+
+- https://www.meetup.com/fr-FR/Duchess-France-Meetup/events/248991072/
+
+* GAFAM, BATX : que valent nos données personnelles ? »
+  SCHEDULED: <2018-04-09 lun. 19:15-21:15>
+  :PROPERTIES:
+  :LOCATION: Amphithéâtre Emile Boutmy - 27 rue Saint-Guillaume 75007 Paris
+  :ID:       35f36326-9daf-4956-a145-a9adea276cf2
+  :END:
+
+https://www.sciencespo.fr/evenements/?event=gafam-batx-que-valent-nos-donnees-personnelles
+
+Dans le cadre des Rencontres de Bioéthique de Sciences Po, conférence avec :
+
+- Dominique Cardon, directeur du médialab de Sciences Po, professeur
+  de Sociologie
+
+- Christine Froidevaux, vice-présidente de la Société informatique de
+  France, professeur d’informatique, Université Paris-Sud-Paris-Saclay
+
+- Claude Huriet, sénateur honoraire, membre honoris causa de
+  l’Académie nationale de médecine.
+
+Présentation du débat par Emmanuel Hirsch, professeur à l’Université
+Paris-Sud-Paris-Saclay, directeur de l’Espace éthique d’Ile-de-France.
+
+* Petit déjeuner de l’innovation autour de l’IA à travers une conférence de Frédéric Wickert
+  SCHEDULED: <2018-04-12 jeu. 09:15>
+  :PROPERTIES:
+  :LOCATION: 40 rue de la Victoire 75009 Paris
+  :ID:       998d8c59-c112-4271-b4a6-26aaf5afa317
+  :END:
+
+Kicklox organise le 12 Avril à 9h30 un petit déjeuner de l’innovation
+autour de l’IA à travers une conférence de Frédéric Wickert –
+Technical Evangelist chez Microsoft.
+
+Inscription via ce lien : https://bit.ly/2pS6Jjg
+
+* Disruptions publiques - Saison 1 : La Blockchain 
+  SCHEDULED: <2018-04-27 ven. 14:00-17:30>
+  :PROPERTIES: 
+  :LOCATION: 69 Rue de Varenne, Paris 75007
+  :ID:       55d0e640-97c0-4080-b644-db4432935f50
+  :END:
+
+Au programme : une session découverte et inspiration avec les
+programmes blockchain de la Caisse des Dépôts et Consignations, puis
+un atelier d’idéation. En compagnie de Nadia Filali Directrice des
+Programmes blockchain et pilote de LabChain, et Pierre Noro chargé
+d’innovation blockchain à la Caisse des Dépots et
+Consignations. L'évènement se déroulera le 27 avril de 14h à 17h au 69
+rue de Varenne.
+
+Inscription via ce lien: https://bit.ly/2HCLART
+
+* La mobilité de la filière numerique au sein de l'État
+  SCHEDULED: <2018-05-03 jeu.>
+  :PROPERTIES:
+  :ID:       7008d206-c97d-4cf9-b082-cf24a4f7b961
+  :END:
+
+https://www.fonction-publique.gouv.fr/mobilitensic2018
+
+* Étalab talk (en français) sur « The Mother of All Demos » (Douglas Engelbart, 1968)
+  SCHEDULED: <2018-05-04 ven. 12:00-14:00>
+  :PROPERTIES:
+  :ID:       f2a4e922-4445-4b2b-b0c0-9a4268f7c17d
+  :LOCATION: 20 avenue de Ségur, 75007 Paris
+  :END:
+
+Animé par C. Quest et B. Guerry.
+
+http://dougengelbart.org/firsts/1968-demo-interactive.html
+
+Nous diffuserons la vidéo et commenterons le contexte technique de
+1968, avec un focus particulier sur Stewart Brand, dont l’histoire
+est racontée dans l’ouvrage de [[https://cfeditions.com/utopieNumerique/][Fred Turner, Aux sources de l’utopie
+numérique]], 2012.
+
+* Démocratie(s) ? #DataGueule // Projection et world Café
+  SCHEDULED: <2018-05-24 jeu. 18:45-22:00>
+  :PROPERTIES:
+  :LOCATION: 23 Rue Dagorno, 75012 Paris
+  :ID:       c1a7183f-58d2-42ab-a425-4488d6b6c668
+  :END:
+
+- L’arsenal - Le Tiers-Lieu Des Associations Étudiantes
+- https://www.facebook.com/events/1757314807661581/permalink/1759906360735759
+
+* L'IA : enjeux et défis pour la transition écologique et énergétique
+  SCHEDULED: <2018-05-25 ven. 11:00-12:30>
+  :PROPERTIES:
+  :LOCATION: Auditorium de la tour Séquoia
+  :ID:       9eeb95a4-9f25-466e-9e2e-9c2ea32528b6
+  :END:
+
+- Intervenants de la mission Villani
+- https://eig-hq.slack.com/messages/C859D1X41/files/FARCV3ZRQ/
+
+* Open Talk DINSIC sensibilisation à l'accessibilité numérique
+  SCHEDULED: <2018-05-25 ven. 12:00-14:00>
+  :PROPERTIES:
+  :LOCATION: 20 avenue de Ségur, 75007 Paris
+  :ID:       96a8d950-40a0-46f7-b6a9-316526706d73
+  :END:
+
+Opentalk DINSIC vendredi 25 mai à Ségur en salle 5.723 de 12h à 14h.
+
+Prévoir son sandwich.
+
+* Étalab talk avec Dario Taraborelli salle 5.728 de 12h30 à 14h00
+  SCHEDULED: <2018-06-04 lun. 12:30-14:00>
+  :PROPERTIES:
+  :LOCATION: 20 avenue de Ségur, 75007 Paris
+  :ID:       ff866ecf-0574-4c88-b53f-07ce62b3c036
+  :END:
+
+Dario Taraborelli est directeur de la recherche de la fondation
+Wikimédia.
+
+Salle 5.728 de 12h30 à 14h00
+
+*Title:* Supporting free knowledge with research and open data
+
+*Abstract:* At the Wikimedia Foundation, we use data and open source
+technology to understand and empower millions of readers and
+contributors who interact with Wikipedia and its sister projects on a
+daily basis. In this talk I’ll give an overview of the research team’s
+current priorities and how we work to make our output reusable and
+reproducible. I’ll focus in particular on an initiative called
+WikiCite, aiming to improve our understanding of where Wikipedia and
+Wikidata get their information from, by building a comprehensive,
+collaboratively edited, structured knowledge base of citable sources
+in Wikidata.
+
+* Rencontres Internationales de la Gestion Publique
+  SCHEDULED: <2018-06-06 mer. 09:00-17:30>
+  :PROPERTIES:
+  :LOCATION: 139, rue de Bercy Centre de conférences Pierre-Mendès-France - 75012 Paris
+  :ID:       3d3f67d0-0969-4704-b7b5-b9a7306856e2
+  :END:
+
+Le code a changé - Quelle gouvernance de l'action publique à l'ère
+numérique ?
+
+Lieu : 139, rue de Bercy Centre de conférences Pierre-Mendès-France -
+75012 Paris
+
+https://www.economie.gouv.fr/igpde-seminaires-conferences/rencontres-internationales-gestion-publique-rigp
+
+* Mapathon Missing Maps Paris @ La Paillasse
+  SCHEDULED: <2018-06-06 mer. 18:30-21:30>
+  :PROPERTIES:
+  :LOCATION: 226 Rue Saint-Denis, 75002 Paris
+  :ID:       6822f5f2-ab0e-4a9c-919c-d69db7b05552
+  :END:
+
+   Venez nous aider à cartographier sur OpenStreetMap, la carte du
+   monde collaborative et libre
+                                                                                           
+   CartONG et La Paillasse vous invitent à un mapathon pour découvrir
+   la cartographie participative et humanitaire dans OpenStreetMap :
+   pas besoin d'être un expert, c'est accessible à tout le monde !
+
+   https://www.eventbrite.ca/e/billets-mapathon-missing-maps-paris-la-paillasse-46315029500
+                                                                                           
+* Journée wiki·data·gouv à la DINSIC
+  SCHEDULED: <2018-06-12 mar.>
+  :PROPERTIES:
+  :CAPTURED: [2018-05-07 lun. 09:45]
+  :ID:       e43e3918-bc06-4de9-bdb3-1db20b719e90
+  :LOCATION: 20 avenue de Ségur, 75007 Paris
+  :END:
+
+Détails : https://github.com/etalab/wiki-data-gouv
+
+De 9h30 à 18h30
+
+À la DINSIC, salle 5.728 au 20 avenue de Ségur 75007 Paris.
+
+* Session Tech EIG / Front & Back End
+  SCHEDULED: <2018-06-27 mer. 13:00-14:30>
+  :PROPERTIES:
+  :LOCATION: Liberté Living Lab, 9 rue d'Alexandrie 75002 Paris
+  :ID:       a7705bf0-7893-4098-8343-24697938c2bd
+  :END:
+
+- Intro à GraphQL par Stanislas Chollet, Engineering Manager / Lead
+  Core API @ Dailymotion.
+
+  GraphQL est une alternatives aux API REST utilisé notamment par
+  Github et Facebook.  Quant à Stan, c'est un passionné d'informatique
+  et fervent adepte de GraphQL, il présente régulièrement à différents
+  meetup et conférences que ce soit sur GraphQL, Kubernetes du côté
+  developeur ou l'automatisation en général: vous en trouverez plus
+  sur lui ici.
+
+- Une présentation "front" (React.js, du one action per screen,
+  progressive web apps, server side rendering) à préciser en fonction
+  des participants par Loick Le Digabel, Lead Front Engineer @
+  Blablacar.
+
+  Après avoir travaillé sur du front classique chez Dailymotion et
+  participé à leur premier POC avec React.js, Loick a mis en place
+  toute la nouvelle architecture front de Blablacar et vient partager
+  avec nous ses retours d'expérience.  Probablement pas de 3e speaker
+  pour laisser du temps au public et aux intervenants d'échanger
+  autour des projets de chacun ! :)
+
+Les détails logistiques :
+
+- mercredi 27 juin 2018
+- 13h à 14h30
+- Liberté Living Lab, 9 rue d'Alexandrie 75002 Paris
+
+* Événement Villani/Mounir/Delli au LLL
+  SCHEDULED: <2018-06-28 jeu. 14:00-19:00>
+  :PROPERTIES:
+  :ID:       93955e1e-8691-4e7c-83f1-6a77eb2a49f7
+  :END:
+
+https://www.eventbrite.com/e/revolutions-de-lia-enjeux-tech-enjeux-de-societe-tickets-46715235527
+
+The Future Society et le Liberté Living Lab co-organisent le jeudi 28
+juin après-midi (13h > 20h) des ateliers thématiques sur le thème de
+l’intelligence artificielle.
+
+Le but de cet après-midi est de permettre aux participants de mieux
+s’approprier les enjeux de la montée en puissance de l’IA. Le format
+des débats sera donc très participatif, notamment sous la forme
+d’ateliers thématiques. Cet après-midi sera ponctué par une
+table-ronde et débat en plénière en présence de Cédric Villani, député
+de LaREM de la 5ème circonscription de l'Essonne, Vice-Président de
+l'Office Parlementaire pour l'Évaluation des Choix Scientifiques et
+Technologiques (OPECST), Karima Delli, député européenne et Présidente
+de la Commission des Transports, André Loesekrug-Pietri, porte-parole
+de Joint European Disruptive Innovation (J.E.D.I) et Khalil Rouhana,
+Directeur Général Adjoint de DG Connect.
+
+* Fab14+ (tout juillet 2018)
+  SCHEDULED: <2018-07-01 dim.>
+  :PROPERTIES:
+  :ID:       af28610e-eeec-418d-8672-14a950e295e7
+  :END:
+
+http://www.fab14.org/fr/fab14-plus/
+
 * Journées plénières du GDR IA : 2-3 Octobre 2018 - Paris
   :PROPERTIES:
   :LOCATION: Paris
@@ -97,73 +419,6 @@ https://www.facebook.com/OceanHackathon/
 
 http://www.tech-brest-iroise.fr/Actualit%c3%a9s-Ocean-Hackathon-_3-du-5-au-7-octobre-2018-%c3%a0-l%e2%80%99ENSTA-Bretagne-2124-2807-0-0.html
 
-* Fab14+ (tout juillet 2018)
-  SCHEDULED: <2018-07-01 dim.>
-  :PROPERTIES:
-  :ID:       af28610e-eeec-418d-8672-14a950e295e7
-  :END:
-
-http://www.fab14.org/fr/fab14-plus/
-
-* Événement Villani/Mounir/Delli au LLL
-  SCHEDULED: <2018-06-28 jeu. 14:00-19:00>
-  :PROPERTIES:
-  :ID:       93955e1e-8691-4e7c-83f1-6a77eb2a49f7
-  :END:
-
-https://www.eventbrite.com/e/revolutions-de-lia-enjeux-tech-enjeux-de-societe-tickets-46715235527
-
-The Future Society et le Liberté Living Lab co-organisent le jeudi 28
-juin après-midi (13h > 20h) des ateliers thématiques sur le thème de
-l’intelligence artificielle.
-
-Le but de cet après-midi est de permettre aux participants de mieux
-s’approprier les enjeux de la montée en puissance de l’IA. Le format
-des débats sera donc très participatif, notamment sous la forme
-d’ateliers thématiques. Cet après-midi sera ponctué par une
-table-ronde et débat en plénière en présence de Cédric Villani, député
-de LaREM de la 5ème circonscription de l'Essonne, Vice-Président de
-l'Office Parlementaire pour l'Évaluation des Choix Scientifiques et
-Technologiques (OPECST), Karima Delli, député européenne et Présidente
-de la Commission des Transports, André Loesekrug-Pietri, porte-parole
-de Joint European Disruptive Innovation (J.E.D.I) et Khalil Rouhana,
-Directeur Général Adjoint de DG Connect.
-
-* Session Tech EIG / Front & Back End
-  SCHEDULED: <2018-06-27 mer. 13:00-14:30>
-  :PROPERTIES:
-  :LOCATION: Liberté Living Lab, 9 rue d'Alexandrie 75002 Paris
-  :ID:       a7705bf0-7893-4098-8343-24697938c2bd
-  :END:
-
-- Intro à GraphQL par Stanislas Chollet, Engineering Manager / Lead
-  Core API @ Dailymotion.
-
-  GraphQL est une alternatives aux API REST utilisé notamment par
-  Github et Facebook.  Quant à Stan, c'est un passionné d'informatique
-  et fervent adepte de GraphQL, il présente régulièrement à différents
-  meetup et conférences que ce soit sur GraphQL, Kubernetes du côté
-  developeur ou l'automatisation en général: vous en trouverez plus
-  sur lui ici.
-
-- Une présentation "front" (React.js, du one action per screen,
-  progressive web apps, server side rendering) à préciser en fonction
-  des participants par Loick Le Digabel, Lead Front Engineer @
-  Blablacar.
-
-  Après avoir travaillé sur du front classique chez Dailymotion et
-  participé à leur premier POC avec React.js, Loick a mis en place
-  toute la nouvelle architecture front de Blablacar et vient partager
-  avec nous ses retours d'expérience.  Probablement pas de 3e speaker
-  pour laisser du temps au public et aux intervenants d'échanger
-  autour des projets de chacun ! :)
-
-Les détails logistiques :
-
-- mercredi 27 juin 2018
-- 13h à 14h30
-- Liberté Living Lab, 9 rue d'Alexandrie 75002 Paris
-
 * DataScience Summer School 2018
   :PROPERTIES:
   :ID:       fc28861b-2b12-48a7-bbea-4358b724e922
@@ -182,231 +437,6 @@ https://mailchi.mp/futuresfestivals/futur-en-seine-devient-futures-2236121?e=f42
 
 L'équipe EIG sera présente à Futur en Seine le vendredi.
 
-* Journée wiki·data·gouv à la DINSIC
-  SCHEDULED: <2018-06-12 mar.>
-  :PROPERTIES:
-  :CAPTURED: [2018-05-07 lun. 09:45]
-  :ID:       e43e3918-bc06-4de9-bdb3-1db20b719e90
-  :LOCATION: 20 avenue de Ségur, 75007 Paris
-  :END:
-
-Détails : https://github.com/etalab/wiki-data-gouv
-
-De 9h30 à 18h30
-
-À la DINSIC, salle 5.728 au 20 avenue de Ségur 75007 Paris.
-
-* Mapathon Missing Maps Paris @ La Paillasse
-  SCHEDULED: <2018-06-06 mer. 18:30-21:30>
-  :PROPERTIES:
-  :LOCATION: 226 Rue Saint-Denis, 75002 Paris
-  :ID:       6822f5f2-ab0e-4a9c-919c-d69db7b05552
-  :END:
-
-   Venez nous aider à cartographier sur OpenStreetMap, la carte du
-   monde collaborative et libre
-                                                                                           
-   CartONG et La Paillasse vous invitent à un mapathon pour découvrir
-   la cartographie participative et humanitaire dans OpenStreetMap :
-   pas besoin d'être un expert, c'est accessible à tout le monde !
-
-   https://www.eventbrite.ca/e/billets-mapathon-missing-maps-paris-la-paillasse-46315029500
-                                                                                           
-* Rencontres Internationales de la Gestion Publique
-  SCHEDULED: <2018-06-06 mer. 09:00-17:30>
-  :PROPERTIES:
-  :LOCATION: 139, rue de Bercy Centre de conférences Pierre-Mendès-France - 75012 Paris
-  :ID:       3d3f67d0-0969-4704-b7b5-b9a7306856e2
-  :END:
-
-Le code a changé - Quelle gouvernance de l'action publique à l'ère
-numérique ?
-
-Lieu : 139, rue de Bercy Centre de conférences Pierre-Mendès-France -
-75012 Paris
-
-https://www.economie.gouv.fr/igpde-seminaires-conferences/rencontres-internationales-gestion-publique-rigp
-
-* Étalab talk avec Dario Taraborelli salle 5.728 de 12h30 à 14h00
-  SCHEDULED: <2018-06-04 lun. 12:30-14:00>
-  :PROPERTIES:
-  :LOCATION: 20 avenue de Ségur, 75007 Paris
-  :ID:       ff866ecf-0574-4c88-b53f-07ce62b3c036
-  :END:
-
-Dario Taraborelli est directeur de la recherche de la fondation
-Wikimédia.
-
-Salle 5.728 de 12h30 à 14h00
-
-*Title:* Supporting free knowledge with research and open data
-
-*Abstract:* At the Wikimedia Foundation, we use data and open source
-technology to understand and empower millions of readers and
-contributors who interact with Wikipedia and its sister projects on a
-daily basis. In this talk I’ll give an overview of the research team’s
-current priorities and how we work to make our output reusable and
-reproducible. I’ll focus in particular on an initiative called
-WikiCite, aiming to improve our understanding of where Wikipedia and
-Wikidata get their information from, by building a comprehensive,
-collaboratively edited, structured knowledge base of citable sources
-in Wikidata.
-
-* Open Talk DINSIC sensibilisation à l'accessibilité numérique
-  SCHEDULED: <2018-05-25 ven. 12:00-14:00>
-  :PROPERTIES:
-  :LOCATION: 20 avenue de Ségur, 75007 Paris
-  :ID:       96a8d950-40a0-46f7-b6a9-316526706d73
-  :END:
-
-Opentalk DINSIC vendredi 25 mai à Ségur en salle 5.723 de 12h à 14h.
-
-Prévoir son sandwich.
-
-* L'IA : enjeux et défis pour la transition écologique et énergétique
-  SCHEDULED: <2018-05-25 ven. 11:00-12:30>
-  :PROPERTIES:
-  :LOCATION: Auditorium de la tour Séquoia
-  :ID:       9eeb95a4-9f25-466e-9e2e-9c2ea32528b6
-  :END:
-
-- Intervenants de la mission Villani
-- https://eig-hq.slack.com/messages/C859D1X41/files/FARCV3ZRQ/
-
-* Démocratie(s) ? #DataGueule // Projection et world Café
-  SCHEDULED: <2018-05-24 jeu. 18:45-22:00>
-  :PROPERTIES:
-  :LOCATION: 23 Rue Dagorno, 75012 Paris
-  :ID:       c1a7183f-58d2-42ab-a425-4488d6b6c668
-  :END:
-
-- L’arsenal - Le Tiers-Lieu Des Associations Étudiantes
-- https://www.facebook.com/events/1757314807661581/permalink/1759906360735759
-
-* Étalab talk (en français) sur « The Mother of All Demos » (Douglas Engelbart, 1968)
-  SCHEDULED: <2018-05-04 ven. 12:00-14:00>
-  :PROPERTIES:
-  :ID:       f2a4e922-4445-4b2b-b0c0-9a4268f7c17d
-  :LOCATION: 20 avenue de Ségur, 75007 Paris
-  :END:
-
-Animé par C. Quest et B. Guerry.
-
-http://dougengelbart.org/firsts/1968-demo-interactive.html
-
-Nous diffuserons la vidéo et commenterons le contexte technique de
-1968, avec un focus particulier sur Stewart Brand, dont l’histoire
-est racontée dans l’ouvrage de [[https://cfeditions.com/utopieNumerique/][Fred Turner, Aux sources de l’utopie
-numérique]], 2012.
-
-* La mobilité de la filière numerique au sein de l'État
-  SCHEDULED: <2018-05-03 jeu.>
-  :PROPERTIES:
-  :ID:       7008d206-c97d-4cf9-b082-cf24a4f7b961
-  :END:
-
-https://www.fonction-publique.gouv.fr/mobilitensic2018
-
-* Disruptions publiques - Saison 1 : La Blockchain 
-  SCHEDULED: <2018-04-27 ven. 14:00-17:30>
-  :PROPERTIES: 
-  :LOCATION: 69 Rue de Varenne, Paris 75007
-  :ID:       55d0e640-97c0-4080-b644-db4432935f50
-  :END:
-
-Au programme : une session découverte et inspiration avec les
-programmes blockchain de la Caisse des Dépôts et Consignations, puis
-un atelier d’idéation. En compagnie de Nadia Filali Directrice des
-Programmes blockchain et pilote de LabChain, et Pierre Noro chargé
-d’innovation blockchain à la Caisse des Dépots et
-Consignations. L'évènement se déroulera le 27 avril de 14h à 17h au 69
-rue de Varenne.
-
-Inscription via ce lien: https://bit.ly/2HCLART
-
-* Petit déjeuner de l’innovation autour de l’IA à travers une conférence de Frédéric Wickert
-  SCHEDULED: <2018-04-12 jeu. 09:15>
-  :PROPERTIES:
-  :LOCATION: 40 rue de la Victoire 75009 Paris
-  :ID:       998d8c59-c112-4271-b4a6-26aaf5afa317
-  :END:
-
-Kicklox organise le 12 Avril à 9h30 un petit déjeuner de l’innovation
-autour de l’IA à travers une conférence de Frédéric Wickert –
-Technical Evangelist chez Microsoft.
-
-Inscription via ce lien : https://bit.ly/2pS6Jjg
-
-* GAFAM, BATX : que valent nos données personnelles ? »
-  SCHEDULED: <2018-04-09 lun. 19:15-21:15>
-  :PROPERTIES:
-  :LOCATION: Amphithéâtre Emile Boutmy - 27 rue Saint-Guillaume 75007 Paris
-  :ID:       35f36326-9daf-4956-a145-a9adea276cf2
-  :END:
-
-https://www.sciencespo.fr/evenements/?event=gafam-batx-que-valent-nos-donnees-personnelles
-
-Dans le cadre des Rencontres de Bioéthique de Sciences Po, conférence avec :
-
-- Dominique Cardon, directeur du médialab de Sciences Po, professeur
-  de Sociologie
-
-- Christine Froidevaux, vice-présidente de la Société informatique de
-  France, professeur d’informatique, Université Paris-Sud-Paris-Saclay
-
-- Claude Huriet, sénateur honoraire, membre honoris causa de
-  l’Académie nationale de médecine.
-
-Présentation du débat par Emmanuel Hirsch, professeur à l’Université
-Paris-Sud-Paris-Saclay, directeur de l’Espace éthique d’Ile-de-France.
-
-* Hands-on chatbot
-  SCHEDULED: <2018-04-09 lun. 19:00>
-  :PROPERTIES:
-  :LOCATION: Google France 38 avenue de l'Opéra Paris
-  :ID:       fc564609-1fb7-4c60-b4dd-3db92e76781b
-  :LOCATION: 20 avenue de Ségur, 75007 Paris
-  :END:
-
-- https://www.meetup.com/fr-FR/Duchess-France-Meetup/events/248991072/
-
-* Étalab talk (en anglais) sur l’open source chez AWS
-  SCHEDULED: <2018-04-06 ven. 12:30-14:00>
-  :PROPERTIES:
-  :ID:       120bd257-d301-422a-a996-e0c19814189f
-  :END:
-
-Rencontre avec Z. [[https://www.linkedin.com/in/zaheda-bhorat-143121][Bhorat]], en charge de la stratégie open-source
-d'Amazon Web Services.
-
-L'etalab talk se fera en anglais.
-
-* Conférence de Yann Lecun
-  SCHEDULED: <2018-04-04 mer. 18:30>
-  :PROPERTIES:
-  :LOCATION: BnF, Paris
-  :ID:       1b035827-5670-4af6-840c-e44be845704d
-  :END:
-
-La théorie de l'apprentissage de Vapnik et les progrès récents de
-l'intelligence artificielle.
-
-http://smf.emath.fr/content/conf%C3%A9rence-bnf-yann-le-cun
-
-* Garagethon Storia
-  SCHEDULED: <2018-03-30 ven. 09:30-18:00>
-  :PROPERTIES:
-  :LOCATION: Liberté Living Lab
-  :ID:       4d65f0eb-f34b-4434-aca9-e1d0c733a2f6
-  :END:
-* Sommet intelligence artificielle - ai-for-humanity
-  SCHEDULED: <2018-03-29 jeu. 08:00-14:00>
-  :PROPERTIES:
-  :ID:       f5937acb-ddf2-4d23-9332-f2efaf29f75c
-  :END:
-
-https://www.numerique.gouv.fr/ai-for-humanity
-
 * Nuit du code citoyen
   :PROPERTIES:
   :ID:       78688cf1-1cca-4575-9a4e-6e3941e25025
@@ -422,36 +452,6 @@ hackathon de 24h non stop, où l'objectif est d'accélérer des projets
 qui mêlent technologies avancées et impact social, grâce à la
 mobilisation de citoyens qui ont des compétences tech, produit, UX,...
 
-* Esthétique des donnees - Gaîté Lyrique
-  SCHEDULED: <2018-03-01 jeu. 19:00>
-  :PROPERTIES:
-  :ID:       6446ff51-ce32-4523-973f-1b2133e123d3
-  :END:
-
-https://gaite-lyrique.net/esthetique-des-donnees
-
-* Perspectives de l’IA
-  SCHEDULED: <2018-02-27 mar. 18:00-20:00>
-  :PROPERTIES:
-  :ID:       a4aef00b-46ae-4b60-9180-c5c7a2d5c9e8
-  :END:
-
-Perspectives de l’IA dans le secteur public autour du rapport de
-Jérôme Pesenti
-
-Amphithéâtre Leroy-Beaulieu-Sorel - 27 rue Saint-Guillaume, 75007
-Paris.
-
-https://www.sciencespo.fr/evenements/?event=perspectives-de-lia-dans-le-secteur-public-autour-du-rapport-de-jerome-pesenti
-
-* MakeryMedialab #3 Que partage-t-on dans les Fablabs?
-  SCHEDULED: <2018-02-22 jeu. 19:00>
-  :PROPERTIES:
-  :ID:       587bcd3e-7e15-48c1-b7f6-d8a13ba461b6
-  :END:
-
-Lieu : Gaîté Lyrique
-
 * COMMENT Configuration
 
 #+SEQ_TODO:  STRT(s) NEXT(n) TODO(t) WAIT(w) | DONE(d) CANCELED(c)
@@ -459,3 +459,17 @@ Lieu : Gaîté Lyrique
 #+DRAWERS:   HIDE LOGBOOK
 #+ARCHIVE:   ~/.eig2/archives/eig-open-agenda-archives.org::
 #+CATEGORY:  EIG
+* Étalab talk sur « Le Drenche » à Ségur salle 4.724
+  SCHEDULED: <2018-09-14 ven. 12:30-14:00>
+  :PROPERTIES:
+  :LOCATION: 20 avenue de Ségur, 75007 Paris
+  :ID:       d4a804d3-8a7a-40f7-8072-d97420193345
+  :END:
+
+Avec F. Guignard et J. Cagé.
+
+* Projection du documentaire Datagueule au LLL
+  SCHEDULED: <2018-09-19 mer. 18:30>
+  :PROPERTIES:
+  :ID:       e5083c85-a7e8-43d4-bfd7-4d47b2052238
+  :END:
