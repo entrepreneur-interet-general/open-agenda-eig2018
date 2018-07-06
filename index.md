@@ -351,6 +351,25 @@ qui mêlent technologies avancées et impact social, grâce à la
 mobilisation de citoyens qui ont des compétences tech, produit, UX,&#x2026;
 
 
+# Étalab talk sur NosSystèmes - transparence et jouabilité des données
+
+NosSystèmes : Objectif de cette nouvelle saison NosSystèmes : rendre
+les algorithmes publics plus intelligibles, joignables, jouables,
+symétriques et ouverts. Après une première année de collaboration avec
+Etalab sur la plateforme APB, nous allons dans cette nouvelle séquence
+explorer de nouveaux terrains, choisis dans le vivier des projets EIG
+et des Startups d’Etat, et travailler avec eux et nos partenaires à
+rendre les algorithmes publics toujours plus exemplaires.  Loup
+Cellard : Loup Cellard est designer et doctorant au Centre For
+Interdisciplinary Methodologies de l'Université de Warwick (UK).
+
+Dans le cadre de cette thèse, il réalise une enquête à Etalab autour
+de l'ouverture des algorithmes publics et de la place du design dans
+les projets de transparence démocratique.L'idée pendant ce dej serait
+de se familiariser avec les deux démarches et de continuer la
+collaboration avec eux après l'été pour les EIG intéressés.
+
+
 # Étalab talk sur « Le Drenche » à Ségur salle 4.724
 
 Avec F. Guignard et J. Cagé.

@@ -459,6 +459,28 @@ mobilisation de citoyens qui ont des compétences tech, produit, UX,...
 #+DRAWERS:   HIDE LOGBOOK
 #+ARCHIVE:   ~/.eig2/archives/eig-open-agenda-archives.org::
 #+CATEGORY:  EIG
+* Étalab talk sur NosSystèmes - transparence et jouabilité des données
+  SCHEDULED: <2018-07-11 mer. 12:30-14:00>
+  :PROPERTIES:
+  :ID:       638c6e40-47d2-4de0-b329-27e78864d6ee
+  :END:
+
+NosSystèmes : Objectif de cette nouvelle saison NosSystèmes : rendre
+les algorithmes publics plus intelligibles, joignables, jouables,
+symétriques et ouverts. Après une première année de collaboration avec
+Etalab sur la plateforme APB, nous allons dans cette nouvelle séquence
+explorer de nouveaux terrains, choisis dans le vivier des projets EIG
+et des Startups d’Etat, et travailler avec eux et nos partenaires à
+rendre les algorithmes publics toujours plus exemplaires.  Loup
+Cellard : Loup Cellard est designer et doctorant au Centre For
+Interdisciplinary Methodologies de l'Université de Warwick (UK).
+
+Dans le cadre de cette thèse, il réalise une enquête à Etalab autour
+de l'ouverture des algorithmes publics et de la place du design dans
+les projets de transparence démocratique.L'idée pendant ce dej serait
+de se familiariser avec les deux démarches et de continuer la
+collaboration avec eux après l'été pour les EIG intéressés.
+
 * Étalab talk sur « Le Drenche » à Ségur salle 4.724
   SCHEDULED: <2018-09-14 ven. 12:30-14:00>
   :PROPERTIES:
