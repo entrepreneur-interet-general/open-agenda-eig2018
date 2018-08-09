@@ -1,6 +1,36 @@
 Vous pouvez vous abonner à cet agenda public [en ligne](https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open).
 
 
+# Éditathon Wikipédia aux Gobelins
+
+Visite des ateliers des Gobelins le matin et enrichissement de
+contenus et d'articles sur les projets Wikimédia l'après-midi.
+
+Inscription libre et gratuite : bastien.guerry AT data.gouv.fr
+
+
+# www.dataliteracyconference.net #DLC2018
+
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-10-05 ven.&gt;</span></span>-<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-10-06 sam.&gt;</span></span>
+
+Si les « data » sont aujourd’hui un puissant vecteur de développement
+économique, de capacitation citoyenne ou encore, de production de
+connaissances, elles suscitent également des inquiétudes légitimes,
+ainsi que des luttes de pouvoir. L’idée montante d’une « littératie »
+des données consiste à permettre à tout décideur, collaborateur,
+innovateur, entrepreneur, chercheur ou citoyen d’en comprendre les
+enjeux, d’en discuter les sources et les usages, et d’en tirer parti
+dans sa propre activité.
+
+Dans les entreprises et les administrations, à l’école, dans la
+recherche comme dans la société, la capacité de produire, comprendre
+et utiliser des données numériques devient une compétence
+essentielle. Avec les meilleurs experts mondiaux et après le succès
+des éditions 2016 et 2017, Data Literacy Conference 2018 délivre les
+clés d’une « culture de la donnée » enfin accessible aux
+non-spécialistes.
+
+
 # MakeryMedialab #3 Que partage-t-on dans les Fablabs?
 
 Lieu : Gaîté Lyrique

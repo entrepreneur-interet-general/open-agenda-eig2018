@@ -1,8 +1,20 @@
 Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open][en ligne]].
 
+* Éditathon Wikipédia aux Gobelins
+  SCHEDULED: <2018-09-21 ven.>
+  :PROPERTIES:
+  :ID:       02794dc4-5e0d-4192-8561-b032d90bfa6c
+  :END:
+
+Visite des ateliers des Gobelins le matin et enrichissement de
+contenus et d'articles sur les projets Wikimédia l'après-midi.
+
+Inscription libre et gratuite : bastien.guerry AT data.gouv.fr
+
 * www.dataliteracyconference.net #DLC2018
   :PROPERTIES:
   :LOCATION: Aix-en-Provence
+  :ID:       00208cf1-4f9e-4525-a1f2-d547664d1c89
   :END:
   <2018-10-05 ven.>-<2018-10-06 sam.>
 
