@@ -1,6 +1,13 @@
 Vous pouvez vous abonner à cet agenda public [en ligne](https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open).
 
 
+# Projection du documentaire « Datagueule Démocraties »
+
+A l’initiative de Victor Schmidt, une projection du documentaire
+Datagueule – Démocraties, le mercredi 19/09 au Liberté Living Lab, en
+présence des réalisateurs, dont Sylvain Lapoix.
+
+
 # Éditathon Wikipédia aux Gobelins
 
 Visite des ateliers des Gobelins le matin et enrichissement de
