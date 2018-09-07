@@ -411,6 +411,3 @@ collaboration avec eux après l'été pour les EIG intéressés.
 
 Avec F. Guignard et J. Cagé.
 
-
-# Projection du documentaire Datagueule au LLL
-
