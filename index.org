@@ -1,5 +1,27 @@
 Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open][en ligne]].
 
+* HackEdu - pendant le salon EducaTice
+  :PROPERTIES:
+  :ID:       71f042fb-0892-4ccd-95f2-2ff88f9ba208
+  :END:
+  <2018-11-21 mer.>-<2018-11-23 ven.>
+
+Un Hackathon sur trois jours autour des données pédagogique, organisé
+par le Ministère de l'Éducation National.
+
+Les EIG du défi CoachÉlèves participent.
+
+* Océan Hackathon
+  :PROPERTIES:
+  :ID:       183e6c18-c7e7-42d6-b85c-ba90766e3c88
+  :END:
+  <2018-10-05 ven.>-<2018-10-07 dim.>
+
+- Page d'accueil : https://www.facebook.com/OceanHackathon/
+- Pourquoi déposer son défi : https://www.youtube.com/watch?v=Il66DecTLNY
+
+Les EIG des défis B@liseNav et Prédisauvetage participent.
+
 * Projection du documentaire « Datagueule Démocraties »
   SCHEDULED: <2018-09-19 mer. 18:30>
   :PROPERTIES:
@@ -497,13 +519,6 @@ hackathon de 24h non stop, où l'objectif est d'accélérer des projets
 qui mêlent technologies avancées et impact social, grâce à la
 mobilisation de citoyens qui ont des compétences tech, produit, UX,...
 
-* COMMENT Configuration
-
-#+SEQ_TODO:  STRT(s) NEXT(n) TODO(t) WAIT(w) | DONE(d) CANCELED(c)
-#+LANGUAGE:  fr
-#+DRAWERS:   HIDE LOGBOOK
-#+ARCHIVE:   ~/.eig2/archives/eig-open-agenda-archives.org::
-#+CATEGORY:  EIG
 * Étalab talk sur NosSystèmes - transparence et jouabilité des données
   SCHEDULED: <2018-07-11 mer. 12:30-14:00>
   :PROPERTIES:
@@ -535,3 +550,10 @@ collaboration avec eux après l'été pour les EIG intéressés.
 
 Avec F. Guignard et J. Cagé.
 
+* COMMENT Configuration
+
+#+SEQ_TODO:  STRT(s) NEXT(n) TODO(t) WAIT(w) | DONE(d) CANCELED(c)
+#+LANGUAGE:  fr
+#+DRAWERS:   HIDE LOGBOOK
+#+ARCHIVE:   ~/.eig2/archives/eig-open-agenda-archives.org::
+#+CATEGORY:  EIG

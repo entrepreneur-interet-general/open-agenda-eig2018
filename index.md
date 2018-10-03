@@ -1,6 +1,26 @@
 Vous pouvez vous abonner à cet agenda public [en ligne](https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open).
 
 
+# HackEdu - pendant le salon EducaTice
+
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-11-21 mer.&gt;</span></span>-<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-11-23 ven.&gt;</span></span>
+
+Un Hackathon sur trois jours autour des données pédagogique, organisé
+par le Ministère de l'Éducation National.
+
+Les EIG du défi CoachÉlèves participent.
+
+
+# Océan Hackathon
+
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-10-05 ven.&gt;</span></span>-<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-10-07 dim.&gt;</span></span>
+
+-   Page d'accueil : <https://www.facebook.com/OceanHackathon/>
+-   Pourquoi déposer son défi : <https://www.youtube.com/watch?v=Il66DecTLNY>
+
+Les EIG des défis B@liseNav et Prédisauvetage participent.
+
+
 # Projection du documentaire « Datagueule Démocraties »
 
 A l’initiative de Victor Schmidt, une projection du documentaire
