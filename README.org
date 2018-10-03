@@ -6,7 +6,7 @@ Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/in
 * Comment ajouter un événement ?
 
 Pour ajouter un événement, éditez le fichier =index.org=, pas le fichier
-=index.md=.  Chaque événement comporte ces éléments :
+=index.md=.  Chaque événement comporte ces éléments :
 
 - Titre
 - Une information de date de d’heure via =SCHEDULED=
@@ -29,6 +29,7 @@ l’agenda sur =cloud.eig-forever.org=.
 
 Le fichier =index.md= est généré automatiquement à partir du fichier
 =index.org=.
+
 * Maintenance
 
 Ce projet est maintenu par Bastien Guerry, EIG Link 2018.
@@ -37,12 +38,12 @@ Pour toute question : =bastien.guerry@data.gouv.fr=
 
 * Contribution
 
-Ce dépôt est ouvert aux contributions - vous pouvez :
+Ce dépôt est ouvert aux contributions - vous pouvez :
 
-- poser une question sur le contenu en ouvrant une issue ;
+- poser une question sur le contenu en ouvrant une issue ;
 
 - /forker/ le dépôt et envoyer des /pull request/ avec des propositions
-  d'amélioration ;
+  d'amélioration ;
 
 - si vous êtes EIG, demander à être ajouté comme collaborateur pour
   pouvoir contribuer directement au dépôt.
