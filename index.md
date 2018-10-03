@@ -11,6 +11,22 @@ par le Ministère de l'Éducation National.
 Les EIG du défi CoachÉlèves participent.
 
 
+# Etalab talk d'Antoine Augusti sur Apache Airflow
+
+RDV le 12 octobre de 12h30 à 14h en salle 5.720 pour un Etalab talk !
+
+**Antoine Augusti**, ingénieur en informatique et actuellement EIG à la
+Direction des Affaires Maritimes propose de s'intéresser aux problèmes
+de transferts de données entre plusieurs sources et de modélisation de
+dépendances entre tâches avec des pipelines.
+
+Apache Airflow et Embulk permettent de modéliser des graphes de tâches
+avec des dépendances entre elles, d'exécuter ces tâches, gérer les
+logs et le monitoring, la qualité.  Si vous cherchez quelque chose de
+plus robuste, sûr et explicable que les tâches CRON, ceci est pour
+vous.
+
+
 # Océan Hackathon
 
 <span class="timestamp-wrapper"><span class="timestamp">&lt;2018-10-05 ven.&gt;</span></span>-<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-10-07 dim.&gt;</span></span>
