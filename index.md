@@ -1,6 +1,9 @@
 Vous pouvez vous abonner à cet agenda public [en ligne](https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open).
 
 
+# Etalab Talk Pass culture à Ségur (salle 5.720)
+
+
 # Etalab talk L. Maurel et L. Aufrère autour du Pass Culture
 
 -   [from Lionel Maurel: Re: Etalab talk avec Lionel Maurel et Laura Aufrèr](nnimap+localhost:datagouv/INBOX#CADX00U+Gnk9A5pionNGJ8+=0=yysG53uP=w=x+ecGB9tF2dwgg@mail.gmail.com)
