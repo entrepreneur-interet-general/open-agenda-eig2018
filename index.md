@@ -1,6 +1,11 @@
 Vous pouvez vous abonner à cet agenda public [en ligne](https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open).
 
 
+# Données et éducation, comment mieux protéger pour mieux valoriser ?
+
+<https://www.eventbrite.fr/e/billets-donnees-et-education-comment-mieux-proteger-pour-mieux-valoriser-51286311739>
+
+
 # Etalab Talk Pass culture à Ségur (salle 5.720)
 
 
