@@ -1,5 +1,72 @@
 Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open][en ligne]].
 
+* 1ère rencontres autour du libre dans l’administration lors du Paris Open Source Summit
+  SCHEDULED: <2018-12-06 jeu. 9:00-18:00>
+  :PROPERTIES:
+  :LOCATION: 87, avenue des magasins généraux 93300 Aubervilliers (Dock Pullmann)
+  :ID:       0cf649b9-04c8-45fc-a356-9364898ff069
+  :END:
+
+Vous êtes développeur ou développeuse dans le secteur public -
+titulaire, contractuel ou prestataire - Vous êtes invités aux
+premières rencontres des développeurs de l’administration qui ont pour
+objectif de favoriser l’émergence d’une communauté autour de code
+utilisé et produit par l’administration.
+
+Au programme : découverte de la politique de contribution aux
+logiciels libres de l’État et lightning talks pour découvrir les
+projets menés au sein de l'administration.
+
+Ces rencontres seront l'occasion de mieux nous connaître, d'échanger
+entre pairs, de débattre ensemble et de surmonter les freins à la
+contribution.
+
+* « Qu'est-ce qu'on fabrique ?  Rencontre autour des projets des incubateurs numériques de plusieurs administrations publiques »
+  SCHEDULED: <2018-11-29 jeu. 15:00-18:30>
+  :PROPERTIES:
+  :LOCATION: 20 avenue de Ségur, 75007 Paris
+  :ID:       9c98501b-3d5c-4761-8a8e-3aad7581dc3a
+  :END:
+
+La fabrique numérique du ministère de la Transition écologique et
+solidaire, l’incubateur de services numériques du ministère des
+Armées, l'incubateur des ministères sociaux et les Entrepreneurs·e
+d'intérêt généraux se réunissent pour présenter leurs projets.  Vous
+êtes designer, développeur ou datascientiste pour l'administration
+publique ?  Rejoignez-nous pour cet échange informel qu'on espère
+instructif et constructif !
+
+* Santé et numérique : quels enjeux éthiques ?
+  SCHEDULED: <2018-11-19 lun. 9:00-13:00>
+  :PROPERTIES:
+  :LOCATION: Auditorium de l'Institut Imagine, 24 boulevard du Montparnase, Paris 15e
+  :ID:       2d57b721-9278-4812-9985-3b95f375a023
+  :END:
+
+https://ccnecerna.sciencesconf.org/
+
+Max Dauchet, Président de la CERNA
+Jean-François Delfraissy, Président du CCNE
+Stanislas Lyonnet, Directeur Général de l’Institut Imagine
+
+Intervenants :
+
+- Stéphanie Combes, rapporteur de la mission Health Data Hub,
+  Ministère des Solidarités et de la Santé
+- Sophie Crozier, membre du CCNE et coordinatrice pour l’AP-HP de la
+  démarche éthique
+- Jean-François Delfraissy, Président du CCNE
+- Pierre-Henri Duée, membre du CCNE et président de la Section
+  Technique du CCNE
+- Christine Froidevaux, membre de la CERNA, professeure
+  d’Informatique, Université Paris-Saclay
+- David Gruson, Fondateur initiative Ethik IA, rapporteur du groupe de
+  travail CCNE numérique & santé
+- Claude Kirchner, membre du CCNE et de la CERNA, rapporteur du groupe
+  de travail CCNE numérique & santé
+- Jacques Lucas, Premier Vice-président du Conseil National de l'Ordre
+  des médecins. Délégué Général au Numérique
+
 * Données et éducation, comment mieux protéger pour mieux valoriser ?
   SCHEDULED: <2018-10-25 jeu. 18:00-20:00>
   :PROPERTIES:

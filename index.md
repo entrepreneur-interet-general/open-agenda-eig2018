@@ -1,6 +1,61 @@
 Vous pouvez vous abonner à cet agenda public [en ligne](https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open).
 
 
+# 1ère rencontres autour du libre dans l’administration lors du Paris Open Source Summit
+
+Vous êtes développeur ou développeuse dans le secteur public -
+titulaire, contractuel ou prestataire - Vous êtes invités aux
+premières rencontres des développeurs de l’administration qui ont pour
+objectif de favoriser l’émergence d’une communauté autour de code
+utilisé et produit par l’administration.
+
+Au programme : découverte de la politique de contribution aux
+logiciels libres de l’État et lightning talks pour découvrir les
+projets menés au sein de l'administration.
+
+Ces rencontres seront l'occasion de mieux nous connaître, d'échanger
+entre pairs, de débattre ensemble et de surmonter les freins à la
+contribution.
+
+
+# « Qu'est-ce qu'on fabrique ?  Rencontre autour des projets des incubateurs numériques de plusieurs administrations publiques »
+
+La fabrique numérique du ministère de la Transition écologique et
+solidaire, l’incubateur de services numériques du ministère des
+Armées, l'incubateur des ministères sociaux et les Entrepreneurs·e
+d'intérêt généraux se réunissent pour présenter leurs projets.  Vous
+êtes designer, développeur ou datascientiste pour l'administration
+publique ?  Rejoignez-nous pour cet échange informel qu'on espère
+instructif et constructif !
+
+
+# Santé et numérique : quels enjeux éthiques ?
+
+<https://ccnecerna.sciencesconf.org/>
+
+Max Dauchet, Président de la CERNA
+Jean-François Delfraissy, Président du CCNE
+Stanislas Lyonnet, Directeur Général de l’Institut Imagine
+
+Intervenants :
+
+-   Stéphanie Combes, rapporteur de la mission Health Data Hub,
+    Ministère des Solidarités et de la Santé
+-   Sophie Crozier, membre du CCNE et coordinatrice pour l’AP-HP de la
+    démarche éthique
+-   Jean-François Delfraissy, Président du CCNE
+-   Pierre-Henri Duée, membre du CCNE et président de la Section
+    Technique du CCNE
+-   Christine Froidevaux, membre de la CERNA, professeure
+    d’Informatique, Université Paris-Saclay
+-   David Gruson, Fondateur initiative Ethik IA, rapporteur du groupe de
+    travail CCNE numérique & santé
+-   Claude Kirchner, membre du CCNE et de la CERNA, rapporteur du groupe
+    de travail CCNE numérique & santé
+-   Jacques Lucas, Premier Vice-président du Conseil National de l'Ordre
+    des médecins. Délégué Général au Numérique
+
+
 # Données et éducation, comment mieux protéger pour mieux valoriser ?
 
 <https://www.eventbrite.fr/e/billets-donnees-et-education-comment-mieux-proteger-pour-mieux-valoriser-51286311739>
