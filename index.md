@@ -28,6 +28,9 @@ d'intérêt généraux se réunissent pour présenter leurs projets.  Vous
 publique ?  Rejoignez-nous pour cet échange informel qu'on espère
 instructif et constructif !
 
+La rencontre aura lieu à Etalab, au 20 avenue de Ségur de 15h à 18h30
+en salle 3.112.
+
 
 # Santé et numérique : quels enjeux éthiques ?
 
