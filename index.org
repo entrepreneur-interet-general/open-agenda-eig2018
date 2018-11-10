@@ -1,5 +1,86 @@
 Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/index.php/apps/calendar/p/C1YPGSGZ1JZPVDDU/EIG2018-Open][en ligne]].
 
+* L'IA forte - Jacques Pitrat - http://www.lip6.fr/colloquium
+   SCHEDULED: <2018-11-20 mar. 18:00>
+   :PROPERTIES:
+   :LOCATION: 4, place Jussieu, 75005 Paris
+   :ID:       6dc8eea2-ee53-4944-986a-55db6ee43b9b
+   :END:
+
+C'est avec plaisir que nous vous convions à assister au prochain
+exposé du [[http://www.lip6.fr/colloquium/][Colloquium d'Informatique de Sorbonne Université]].
+
+L'IA forte par Jacques Pitrat, pionnier français de l'intelligence
+artificielle symbolique
+
+Le Colloquium s'adresse à un public large ; il est en particulier
+ouvert à tous les chercheurs et les étudiants en informatique.
+
+L'exposé aura lieu :
+
+: mardi 20 novembre 2018 à 18h
+: Amphi 25
+: Sorbonne Université - Faculté des Sciences
+: Campus Pierre et Marie Curie
+: 4, place Jussieu
+: métro Jussieu
+
+Un cocktail est prévu à 17h15 devant l'amphi en prélude à la conférence.
+
+Pour s'y rendre : http://www.sorbonne-universite.fr/acces-aux-campus
+
+Vous trouverez sur site du Colloquium [http://www.lip6.fr/colloquium/]
+un lien pour suivre la présentation en direct (streaming).
+Une vidéo de l'exposé sera également mise sur le site après la séance.
+
+** Résumé
+   :PROPERTIES:
+   :ID:       cb13ec24-5782-483c-85a6-c5165d6acee3
+   :END:
+
+Nous allons voir d'abord pourquoi l'intelligence humaine n'atteint pas
+le maximum absolu de l'intelligence. L'IA forte a justement pour but
+de créer des intelligences supérieures à la nôtre. Il est donc
+important de considérer les raisons de nos limites et les avantages
+que les systèmes artificiels ont sur nous.
+Développer une IA forte est un problème extraordinairement difficile,
+justement à cause des limites de notre intelligence : pour atteindre
+ce but, elle fait face à des difficultés qui peuvent la
+dépasser. Aussi, nous avons besoin d'aide et l'IA peut justement nous
+l'apporter : il s'agit de bootstrapper l'IA, c'est à dire de se faire
+aider par ce que l'on a déjà réalisé.
+Nous examinerons comment cela peut se faire pratiquement ainsi que
+quelques-unes des difficultés que nous allons
+rencontrer. Malheureusement, un minimum d'intelligence est quand même
+nécessaire pour réussir un tel bootstrap. Il n'est pas sûr que nous
+atteignions ce minimum. Dans ce cas, nous n'arriverons jamais au but
+final, la singularité, où l'IA se développerait toute seule ;
+toutefois, nous pourrons quand même aller bien plus loin que ce que
+permettra l'IA faible. Par contre, si nous atteignons la singularité,
+les conséquences dépasseront tout ce que nous pouvons imaginer.
+
+** Biographie
+   :PROPERTIES:
+   :ID:       3b0417dc-498c-48d8-a65c-a27f5d6c96f0
+   :END:
+
+Jacques Pitrat est l'un des pionniers français de l'intelligence
+artificielle symbolique. Polytechnicien, ingénieur militaire des
+fabrications d'armement depuis 1957, nommé en 1959 adjoint au chef du
+service des Machines à Calculer du Laboratoire Central de l'Armement,
+il a obtenu son doctorat d'état en 1966, sur un sujet d'IA autour des
+démonstrateur de théorèmes et de méta-théorèmes. Il a travaillé en
+tant que chercheur CNRS à Paris 6 de 1967 à 2000  et a dirigé 70
+thèses sur la thématique de l'IA. Il poursuit sa carrière en tant que
+actuellement chercheur à plein temps en IA sans affiliation. Ses
+travaux se concentrent autour des systèmes à bases de connaissances,
+les démonstrateurs de théorèmes, et les méta-connaissances.
+Il a écrit six livres sur l'IA et a reçu le Special award “Fifty years
+of Artificial Intelligence” de l'IPMU. Il est également fellow de
+l'AAAI et de l'ECCAI, membre d’Honneur de l'AFIA.
+
+Pour plus d'informations: https://www.lip6.fr/colloquium/
+
 * 1ère rencontres autour du libre dans l’administration lors du Paris Open Source Summit
   SCHEDULED: <2018-12-06 jeu. 9:00-18:00>
   :PROPERTIES:
